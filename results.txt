@@ -1,0 +1,2880 @@
+Index: 1
+Config:
+  histogram_segment_size: 20
+  selected_levels: [1, 4, 7]
+  hist_value: count
+  histogram_type: letter_levels
+  kineme_type: single_letters
+Result: Simulated result for {'histogram_segment_size': 20, 'selected_levels': [1, 4, 7], 'hist_value': 'count', 'histogram_type': 'letter_levels', 'kineme_type': 'single_letters'}
+----------------------------------------
+
+Index: 2
+Config:
+  histogram_segment_size: 20
+  selected_levels: [1, 4, 7]
+  hist_value: count
+  histogram_type: letter_levels
+  kineme_type: singleton
+Result: Simulated result for {'histogram_segment_size': 20, 'selected_levels': [1, 4, 7], 'hist_value': 'count', 'histogram_type': 'letter_levels', 'kineme_type': 'singleton'}
+----------------------------------------
+
+Index: 3
+Config:
+  histogram_segment_size: 20
+  selected_levels: [1, 4, 7]
+  hist_value: count
+  histogram_type: letter_levels
+  kineme_type: one_nod
+Result: Simulated result for {'histogram_segment_size': 20, 'selected_levels': [1, 4, 7], 'hist_value': 'count', 'histogram_type': 'letter_levels', 'kineme_type': 'one_nod'}
+----------------------------------------
+
+Index: 4
+Config:
+  histogram_segment_size: 20
+  selected_levels: [1, 4, 7]
+  hist_value: count
+  histogram_type: letter_combined
+  kineme_type: single_letters
+Result: Simulated result for {'histogram_segment_size': 20, 'selected_levels': [1, 4, 7], 'hist_value': 'count', 'histogram_type': 'letter_combined', 'kineme_type': 'single_letters'}
+----------------------------------------
+
+Index: 5
+Config:
+  histogram_segment_size: 20
+  selected_levels: [1, 4, 7]
+  hist_value: count
+  histogram_type: letter_combined
+  kineme_type: singleton
+Result: Simulated result for {'histogram_segment_size': 20, 'selected_levels': [1, 4, 7], 'hist_value': 'count', 'histogram_type': 'letter_combined', 'kineme_type': 'singleton'}
+----------------------------------------
+
+Index: 6
+Config:
+  histogram_segment_size: 20
+  selected_levels: [1, 4, 7]
+  hist_value: count
+  histogram_type: letter_combined
+  kineme_type: one_nod
+Result: Simulated result for {'histogram_segment_size': 20, 'selected_levels': [1, 4, 7], 'hist_value': 'count', 'histogram_type': 'letter_combined', 'kineme_type': 'one_nod'}
+----------------------------------------
+
+Index: 7
+Config:
+  histogram_segment_size: 20
+  selected_levels: [1, 4, 7]
+  hist_value: count
+  histogram_type: letter_levels_and_combined
+  kineme_type: single_letters
+Result: Simulated result for {'histogram_segment_size': 20, 'selected_levels': [1, 4, 7], 'hist_value': 'count', 'histogram_type': 'letter_levels_and_combined', 'kineme_type': 'single_letters'}
+----------------------------------------
+
+Index: 8
+Config:
+  histogram_segment_size: 20
+  selected_levels: [1, 4, 7]
+  hist_value: count
+  histogram_type: letter_levels_and_combined
+  kineme_type: singleton
+Result: Simulated result for {'histogram_segment_size': 20, 'selected_levels': [1, 4, 7], 'hist_value': 'count', 'histogram_type': 'letter_levels_and_combined', 'kineme_type': 'singleton'}
+----------------------------------------
+
+Index: 9
+Config:
+  histogram_segment_size: 20
+  selected_levels: [1, 4, 7]
+  hist_value: count
+  histogram_type: letter_levels_and_combined
+  kineme_type: one_nod
+Result: Simulated result for {'histogram_segment_size': 20, 'selected_levels': [1, 4, 7], 'hist_value': 'count', 'histogram_type': 'letter_levels_and_combined', 'kineme_type': 'one_nod'}
+----------------------------------------
+
+Index: 10
+Config:
+  histogram_segment_size: 20
+  selected_levels: [1, 4, 7]
+  hist_value: count
+  histogram_type: kineme_levels_and_combined
+  kineme_type: single_letters
+Result: Simulated result for {'histogram_segment_size': 20, 'selected_levels': [1, 4, 7], 'hist_value': 'count', 'histogram_type': 'kineme_levels_and_combined', 'kineme_type': 'single_letters'}
+----------------------------------------
+
+Index: 11
+Config:
+  histogram_segment_size: 20
+  selected_levels: [1, 4, 7]
+  hist_value: count
+  histogram_type: kineme_levels_and_combined
+  kineme_type: singleton
+Result: Simulated result for {'histogram_segment_size': 20, 'selected_levels': [1, 4, 7], 'hist_value': 'count', 'histogram_type': 'kineme_levels_and_combined', 'kineme_type': 'singleton'}
+----------------------------------------
+
+Index: 12
+Config:
+  histogram_segment_size: 20
+  selected_levels: [1, 4, 7]
+  hist_value: count
+  histogram_type: kineme_levels_and_combined
+  kineme_type: one_nod
+Result: Simulated result for {'histogram_segment_size': 20, 'selected_levels': [1, 4, 7], 'hist_value': 'count', 'histogram_type': 'kineme_levels_and_combined', 'kineme_type': 'one_nod'}
+----------------------------------------
+
+Index: 13
+Config:
+  histogram_segment_size: 20
+  selected_levels: [1, 4, 7]
+  hist_value: magnitude
+  histogram_type: letter_levels
+  kineme_type: single_letters
+Result: Simulated result for {'histogram_segment_size': 20, 'selected_levels': [1, 4, 7], 'hist_value': 'magnitude', 'histogram_type': 'letter_levels', 'kineme_type': 'single_letters'}
+----------------------------------------
+
+Index: 14
+Config:
+  histogram_segment_size: 20
+  selected_levels: [1, 4, 7]
+  hist_value: magnitude
+  histogram_type: letter_levels
+  kineme_type: singleton
+Result: Simulated result for {'histogram_segment_size': 20, 'selected_levels': [1, 4, 7], 'hist_value': 'magnitude', 'histogram_type': 'letter_levels', 'kineme_type': 'singleton'}
+----------------------------------------
+
+Index: 15
+Config:
+  histogram_segment_size: 20
+  selected_levels: [1, 4, 7]
+  hist_value: magnitude
+  histogram_type: letter_levels
+  kineme_type: one_nod
+Result: Simulated result for {'histogram_segment_size': 20, 'selected_levels': [1, 4, 7], 'hist_value': 'magnitude', 'histogram_type': 'letter_levels', 'kineme_type': 'one_nod'}
+----------------------------------------
+
+Index: 16
+Config:
+  histogram_segment_size: 20
+  selected_levels: [1, 4, 7]
+  hist_value: magnitude
+  histogram_type: letter_combined
+  kineme_type: single_letters
+Result: Simulated result for {'histogram_segment_size': 20, 'selected_levels': [1, 4, 7], 'hist_value': 'magnitude', 'histogram_type': 'letter_combined', 'kineme_type': 'single_letters'}
+----------------------------------------
+
+Index: 17
+Config:
+  histogram_segment_size: 20
+  selected_levels: [1, 4, 7]
+  hist_value: magnitude
+  histogram_type: letter_combined
+  kineme_type: singleton
+Result: Simulated result for {'histogram_segment_size': 20, 'selected_levels': [1, 4, 7], 'hist_value': 'magnitude', 'histogram_type': 'letter_combined', 'kineme_type': 'singleton'}
+----------------------------------------
+
+Index: 18
+Config:
+  histogram_segment_size: 20
+  selected_levels: [1, 4, 7]
+  hist_value: magnitude
+  histogram_type: letter_combined
+  kineme_type: one_nod
+Result: Simulated result for {'histogram_segment_size': 20, 'selected_levels': [1, 4, 7], 'hist_value': 'magnitude', 'histogram_type': 'letter_combined', 'kineme_type': 'one_nod'}
+----------------------------------------
+
+Index: 19
+Config:
+  histogram_segment_size: 20
+  selected_levels: [1, 4, 7]
+  hist_value: magnitude
+  histogram_type: letter_levels_and_combined
+  kineme_type: single_letters
+Result: Simulated result for {'histogram_segment_size': 20, 'selected_levels': [1, 4, 7], 'hist_value': 'magnitude', 'histogram_type': 'letter_levels_and_combined', 'kineme_type': 'single_letters'}
+----------------------------------------
+
+Index: 20
+Config:
+  histogram_segment_size: 20
+  selected_levels: [1, 4, 7]
+  hist_value: magnitude
+  histogram_type: letter_levels_and_combined
+  kineme_type: singleton
+Result: Simulated result for {'histogram_segment_size': 20, 'selected_levels': [1, 4, 7], 'hist_value': 'magnitude', 'histogram_type': 'letter_levels_and_combined', 'kineme_type': 'singleton'}
+----------------------------------------
+
+Index: 21
+Config:
+  histogram_segment_size: 20
+  selected_levels: [1, 4, 7]
+  hist_value: magnitude
+  histogram_type: letter_levels_and_combined
+  kineme_type: one_nod
+Result: Simulated result for {'histogram_segment_size': 20, 'selected_levels': [1, 4, 7], 'hist_value': 'magnitude', 'histogram_type': 'letter_levels_and_combined', 'kineme_type': 'one_nod'}
+----------------------------------------
+
+Index: 22
+Config:
+  histogram_segment_size: 20
+  selected_levels: [1, 4, 7]
+  hist_value: magnitude
+  histogram_type: kineme_levels_and_combined
+  kineme_type: single_letters
+Result: Simulated result for {'histogram_segment_size': 20, 'selected_levels': [1, 4, 7], 'hist_value': 'magnitude', 'histogram_type': 'kineme_levels_and_combined', 'kineme_type': 'single_letters'}
+----------------------------------------
+
+Index: 23
+Config:
+  histogram_segment_size: 20
+  selected_levels: [1, 4, 7]
+  hist_value: magnitude
+  histogram_type: kineme_levels_and_combined
+  kineme_type: singleton
+Result: Simulated result for {'histogram_segment_size': 20, 'selected_levels': [1, 4, 7], 'hist_value': 'magnitude', 'histogram_type': 'kineme_levels_and_combined', 'kineme_type': 'singleton'}
+----------------------------------------
+
+Index: 24
+Config:
+  histogram_segment_size: 20
+  selected_levels: [1, 4, 7]
+  hist_value: magnitude
+  histogram_type: kineme_levels_and_combined
+  kineme_type: one_nod
+Result: Simulated result for {'histogram_segment_size': 20, 'selected_levels': [1, 4, 7], 'hist_value': 'magnitude', 'histogram_type': 'kineme_levels_and_combined', 'kineme_type': 'one_nod'}
+----------------------------------------
+
+Index: 25
+Config:
+  histogram_segment_size: 20
+  selected_levels: [1, 4, 7, 10]
+  hist_value: count
+  histogram_type: letter_levels
+  kineme_type: single_letters
+Result: Simulated result for {'histogram_segment_size': 20, 'selected_levels': [1, 4, 7, 10], 'hist_value': 'count', 'histogram_type': 'letter_levels', 'kineme_type': 'single_letters'}
+----------------------------------------
+
+Index: 26
+Config:
+  histogram_segment_size: 20
+  selected_levels: [1, 4, 7, 10]
+  hist_value: count
+  histogram_type: letter_levels
+  kineme_type: singleton
+Result: Simulated result for {'histogram_segment_size': 20, 'selected_levels': [1, 4, 7, 10], 'hist_value': 'count', 'histogram_type': 'letter_levels', 'kineme_type': 'singleton'}
+----------------------------------------
+
+Index: 27
+Config:
+  histogram_segment_size: 20
+  selected_levels: [1, 4, 7, 10]
+  hist_value: count
+  histogram_type: letter_levels
+  kineme_type: one_nod
+Result: Simulated result for {'histogram_segment_size': 20, 'selected_levels': [1, 4, 7, 10], 'hist_value': 'count', 'histogram_type': 'letter_levels', 'kineme_type': 'one_nod'}
+----------------------------------------
+
+Index: 28
+Config:
+  histogram_segment_size: 20
+  selected_levels: [1, 4, 7, 10]
+  hist_value: count
+  histogram_type: letter_combined
+  kineme_type: single_letters
+Result: Simulated result for {'histogram_segment_size': 20, 'selected_levels': [1, 4, 7, 10], 'hist_value': 'count', 'histogram_type': 'letter_combined', 'kineme_type': 'single_letters'}
+----------------------------------------
+
+Index: 29
+Config:
+  histogram_segment_size: 20
+  selected_levels: [1, 4, 7, 10]
+  hist_value: count
+  histogram_type: letter_combined
+  kineme_type: singleton
+Result: Simulated result for {'histogram_segment_size': 20, 'selected_levels': [1, 4, 7, 10], 'hist_value': 'count', 'histogram_type': 'letter_combined', 'kineme_type': 'singleton'}
+----------------------------------------
+
+Index: 30
+Config:
+  histogram_segment_size: 20
+  selected_levels: [1, 4, 7, 10]
+  hist_value: count
+  histogram_type: letter_combined
+  kineme_type: one_nod
+Result: Simulated result for {'histogram_segment_size': 20, 'selected_levels': [1, 4, 7, 10], 'hist_value': 'count', 'histogram_type': 'letter_combined', 'kineme_type': 'one_nod'}
+----------------------------------------
+
+Index: 31
+Config:
+  histogram_segment_size: 20
+  selected_levels: [1, 4, 7, 10]
+  hist_value: count
+  histogram_type: letter_levels_and_combined
+  kineme_type: single_letters
+Result: Simulated result for {'histogram_segment_size': 20, 'selected_levels': [1, 4, 7, 10], 'hist_value': 'count', 'histogram_type': 'letter_levels_and_combined', 'kineme_type': 'single_letters'}
+----------------------------------------
+
+Index: 32
+Config:
+  histogram_segment_size: 20
+  selected_levels: [1, 4, 7, 10]
+  hist_value: count
+  histogram_type: letter_levels_and_combined
+  kineme_type: singleton
+Result: Simulated result for {'histogram_segment_size': 20, 'selected_levels': [1, 4, 7, 10], 'hist_value': 'count', 'histogram_type': 'letter_levels_and_combined', 'kineme_type': 'singleton'}
+----------------------------------------
+
+Index: 33
+Config:
+  histogram_segment_size: 20
+  selected_levels: [1, 4, 7, 10]
+  hist_value: count
+  histogram_type: letter_levels_and_combined
+  kineme_type: one_nod
+Result: Simulated result for {'histogram_segment_size': 20, 'selected_levels': [1, 4, 7, 10], 'hist_value': 'count', 'histogram_type': 'letter_levels_and_combined', 'kineme_type': 'one_nod'}
+----------------------------------------
+
+Index: 34
+Config:
+  histogram_segment_size: 20
+  selected_levels: [1, 4, 7, 10]
+  hist_value: count
+  histogram_type: kineme_levels_and_combined
+  kineme_type: single_letters
+Result: Simulated result for {'histogram_segment_size': 20, 'selected_levels': [1, 4, 7, 10], 'hist_value': 'count', 'histogram_type': 'kineme_levels_and_combined', 'kineme_type': 'single_letters'}
+----------------------------------------
+
+Index: 35
+Config:
+  histogram_segment_size: 20
+  selected_levels: [1, 4, 7, 10]
+  hist_value: count
+  histogram_type: kineme_levels_and_combined
+  kineme_type: singleton
+Result: Simulated result for {'histogram_segment_size': 20, 'selected_levels': [1, 4, 7, 10], 'hist_value': 'count', 'histogram_type': 'kineme_levels_and_combined', 'kineme_type': 'singleton'}
+----------------------------------------
+
+Index: 36
+Config:
+  histogram_segment_size: 20
+  selected_levels: [1, 4, 7, 10]
+  hist_value: count
+  histogram_type: kineme_levels_and_combined
+  kineme_type: one_nod
+Result: Simulated result for {'histogram_segment_size': 20, 'selected_levels': [1, 4, 7, 10], 'hist_value': 'count', 'histogram_type': 'kineme_levels_and_combined', 'kineme_type': 'one_nod'}
+----------------------------------------
+
+Index: 37
+Config:
+  histogram_segment_size: 20
+  selected_levels: [1, 4, 7, 10]
+  hist_value: magnitude
+  histogram_type: letter_levels
+  kineme_type: single_letters
+Result: Simulated result for {'histogram_segment_size': 20, 'selected_levels': [1, 4, 7, 10], 'hist_value': 'magnitude', 'histogram_type': 'letter_levels', 'kineme_type': 'single_letters'}
+----------------------------------------
+
+Index: 38
+Config:
+  histogram_segment_size: 20
+  selected_levels: [1, 4, 7, 10]
+  hist_value: magnitude
+  histogram_type: letter_levels
+  kineme_type: singleton
+Result: Simulated result for {'histogram_segment_size': 20, 'selected_levels': [1, 4, 7, 10], 'hist_value': 'magnitude', 'histogram_type': 'letter_levels', 'kineme_type': 'singleton'}
+----------------------------------------
+
+Index: 39
+Config:
+  histogram_segment_size: 20
+  selected_levels: [1, 4, 7, 10]
+  hist_value: magnitude
+  histogram_type: letter_levels
+  kineme_type: one_nod
+Result: Simulated result for {'histogram_segment_size': 20, 'selected_levels': [1, 4, 7, 10], 'hist_value': 'magnitude', 'histogram_type': 'letter_levels', 'kineme_type': 'one_nod'}
+----------------------------------------
+
+Index: 40
+Config:
+  histogram_segment_size: 20
+  selected_levels: [1, 4, 7, 10]
+  hist_value: magnitude
+  histogram_type: letter_combined
+  kineme_type: single_letters
+Result: Simulated result for {'histogram_segment_size': 20, 'selected_levels': [1, 4, 7, 10], 'hist_value': 'magnitude', 'histogram_type': 'letter_combined', 'kineme_type': 'single_letters'}
+----------------------------------------
+
+Index: 41
+Config:
+  histogram_segment_size: 20
+  selected_levels: [1, 4, 7, 10]
+  hist_value: magnitude
+  histogram_type: letter_combined
+  kineme_type: singleton
+Result: Simulated result for {'histogram_segment_size': 20, 'selected_levels': [1, 4, 7, 10], 'hist_value': 'magnitude', 'histogram_type': 'letter_combined', 'kineme_type': 'singleton'}
+----------------------------------------
+
+Index: 42
+Config:
+  histogram_segment_size: 20
+  selected_levels: [1, 4, 7, 10]
+  hist_value: magnitude
+  histogram_type: letter_combined
+  kineme_type: one_nod
+Result: Simulated result for {'histogram_segment_size': 20, 'selected_levels': [1, 4, 7, 10], 'hist_value': 'magnitude', 'histogram_type': 'letter_combined', 'kineme_type': 'one_nod'}
+----------------------------------------
+
+Index: 43
+Config:
+  histogram_segment_size: 20
+  selected_levels: [1, 4, 7, 10]
+  hist_value: magnitude
+  histogram_type: letter_levels_and_combined
+  kineme_type: single_letters
+Result: Simulated result for {'histogram_segment_size': 20, 'selected_levels': [1, 4, 7, 10], 'hist_value': 'magnitude', 'histogram_type': 'letter_levels_and_combined', 'kineme_type': 'single_letters'}
+----------------------------------------
+
+Index: 44
+Config:
+  histogram_segment_size: 20
+  selected_levels: [1, 4, 7, 10]
+  hist_value: magnitude
+  histogram_type: letter_levels_and_combined
+  kineme_type: singleton
+Result: Simulated result for {'histogram_segment_size': 20, 'selected_levels': [1, 4, 7, 10], 'hist_value': 'magnitude', 'histogram_type': 'letter_levels_and_combined', 'kineme_type': 'singleton'}
+----------------------------------------
+
+Index: 45
+Config:
+  histogram_segment_size: 20
+  selected_levels: [1, 4, 7, 10]
+  hist_value: magnitude
+  histogram_type: letter_levels_and_combined
+  kineme_type: one_nod
+Result: Simulated result for {'histogram_segment_size': 20, 'selected_levels': [1, 4, 7, 10], 'hist_value': 'magnitude', 'histogram_type': 'letter_levels_and_combined', 'kineme_type': 'one_nod'}
+----------------------------------------
+
+Index: 46
+Config:
+  histogram_segment_size: 20
+  selected_levels: [1, 4, 7, 10]
+  hist_value: magnitude
+  histogram_type: kineme_levels_and_combined
+  kineme_type: single_letters
+Result: Simulated result for {'histogram_segment_size': 20, 'selected_levels': [1, 4, 7, 10], 'hist_value': 'magnitude', 'histogram_type': 'kineme_levels_and_combined', 'kineme_type': 'single_letters'}
+----------------------------------------
+
+Index: 47
+Config:
+  histogram_segment_size: 20
+  selected_levels: [1, 4, 7, 10]
+  hist_value: magnitude
+  histogram_type: kineme_levels_and_combined
+  kineme_type: singleton
+Result: Simulated result for {'histogram_segment_size': 20, 'selected_levels': [1, 4, 7, 10], 'hist_value': 'magnitude', 'histogram_type': 'kineme_levels_and_combined', 'kineme_type': 'singleton'}
+----------------------------------------
+
+Index: 48
+Config:
+  histogram_segment_size: 20
+  selected_levels: [1, 4, 7, 10]
+  hist_value: magnitude
+  histogram_type: kineme_levels_and_combined
+  kineme_type: one_nod
+Result: Simulated result for {'histogram_segment_size': 20, 'selected_levels': [1, 4, 7, 10], 'hist_value': 'magnitude', 'histogram_type': 'kineme_levels_and_combined', 'kineme_type': 'one_nod'}
+----------------------------------------
+
+Index: 49
+Config:
+  histogram_segment_size: 20
+  selected_levels: [1, 4, 7, 10, 13]
+  hist_value: count
+  histogram_type: letter_levels
+  kineme_type: single_letters
+Result: Simulated result for {'histogram_segment_size': 20, 'selected_levels': [1, 4, 7, 10, 13], 'hist_value': 'count', 'histogram_type': 'letter_levels', 'kineme_type': 'single_letters'}
+----------------------------------------
+
+Index: 50
+Config:
+  histogram_segment_size: 20
+  selected_levels: [1, 4, 7, 10, 13]
+  hist_value: count
+  histogram_type: letter_levels
+  kineme_type: singleton
+Result: Simulated result for {'histogram_segment_size': 20, 'selected_levels': [1, 4, 7, 10, 13], 'hist_value': 'count', 'histogram_type': 'letter_levels', 'kineme_type': 'singleton'}
+----------------------------------------
+
+Index: 51
+Config:
+  histogram_segment_size: 20
+  selected_levels: [1, 4, 7, 10, 13]
+  hist_value: count
+  histogram_type: letter_levels
+  kineme_type: one_nod
+Result: Simulated result for {'histogram_segment_size': 20, 'selected_levels': [1, 4, 7, 10, 13], 'hist_value': 'count', 'histogram_type': 'letter_levels', 'kineme_type': 'one_nod'}
+----------------------------------------
+
+Index: 52
+Config:
+  histogram_segment_size: 20
+  selected_levels: [1, 4, 7, 10, 13]
+  hist_value: count
+  histogram_type: letter_combined
+  kineme_type: single_letters
+Result: Simulated result for {'histogram_segment_size': 20, 'selected_levels': [1, 4, 7, 10, 13], 'hist_value': 'count', 'histogram_type': 'letter_combined', 'kineme_type': 'single_letters'}
+----------------------------------------
+
+Index: 53
+Config:
+  histogram_segment_size: 20
+  selected_levels: [1, 4, 7, 10, 13]
+  hist_value: count
+  histogram_type: letter_combined
+  kineme_type: singleton
+Result: Simulated result for {'histogram_segment_size': 20, 'selected_levels': [1, 4, 7, 10, 13], 'hist_value': 'count', 'histogram_type': 'letter_combined', 'kineme_type': 'singleton'}
+----------------------------------------
+
+Index: 54
+Config:
+  histogram_segment_size: 20
+  selected_levels: [1, 4, 7, 10, 13]
+  hist_value: count
+  histogram_type: letter_combined
+  kineme_type: one_nod
+Result: Simulated result for {'histogram_segment_size': 20, 'selected_levels': [1, 4, 7, 10, 13], 'hist_value': 'count', 'histogram_type': 'letter_combined', 'kineme_type': 'one_nod'}
+----------------------------------------
+
+Index: 55
+Config:
+  histogram_segment_size: 20
+  selected_levels: [1, 4, 7, 10, 13]
+  hist_value: count
+  histogram_type: letter_levels_and_combined
+  kineme_type: single_letters
+Result: Simulated result for {'histogram_segment_size': 20, 'selected_levels': [1, 4, 7, 10, 13], 'hist_value': 'count', 'histogram_type': 'letter_levels_and_combined', 'kineme_type': 'single_letters'}
+----------------------------------------
+
+Index: 56
+Config:
+  histogram_segment_size: 20
+  selected_levels: [1, 4, 7, 10, 13]
+  hist_value: count
+  histogram_type: letter_levels_and_combined
+  kineme_type: singleton
+Result: Simulated result for {'histogram_segment_size': 20, 'selected_levels': [1, 4, 7, 10, 13], 'hist_value': 'count', 'histogram_type': 'letter_levels_and_combined', 'kineme_type': 'singleton'}
+----------------------------------------
+
+Index: 57
+Config:
+  histogram_segment_size: 20
+  selected_levels: [1, 4, 7, 10, 13]
+  hist_value: count
+  histogram_type: letter_levels_and_combined
+  kineme_type: one_nod
+Result: Simulated result for {'histogram_segment_size': 20, 'selected_levels': [1, 4, 7, 10, 13], 'hist_value': 'count', 'histogram_type': 'letter_levels_and_combined', 'kineme_type': 'one_nod'}
+----------------------------------------
+
+Index: 58
+Config:
+  histogram_segment_size: 20
+  selected_levels: [1, 4, 7, 10, 13]
+  hist_value: count
+  histogram_type: kineme_levels_and_combined
+  kineme_type: single_letters
+Result: Simulated result for {'histogram_segment_size': 20, 'selected_levels': [1, 4, 7, 10, 13], 'hist_value': 'count', 'histogram_type': 'kineme_levels_and_combined', 'kineme_type': 'single_letters'}
+----------------------------------------
+
+Index: 59
+Config:
+  histogram_segment_size: 20
+  selected_levels: [1, 4, 7, 10, 13]
+  hist_value: count
+  histogram_type: kineme_levels_and_combined
+  kineme_type: singleton
+Result: Simulated result for {'histogram_segment_size': 20, 'selected_levels': [1, 4, 7, 10, 13], 'hist_value': 'count', 'histogram_type': 'kineme_levels_and_combined', 'kineme_type': 'singleton'}
+----------------------------------------
+
+Index: 60
+Config:
+  histogram_segment_size: 20
+  selected_levels: [1, 4, 7, 10, 13]
+  hist_value: count
+  histogram_type: kineme_levels_and_combined
+  kineme_type: one_nod
+Result: Simulated result for {'histogram_segment_size': 20, 'selected_levels': [1, 4, 7, 10, 13], 'hist_value': 'count', 'histogram_type': 'kineme_levels_and_combined', 'kineme_type': 'one_nod'}
+----------------------------------------
+
+Index: 61
+Config:
+  histogram_segment_size: 20
+  selected_levels: [1, 4, 7, 10, 13]
+  hist_value: magnitude
+  histogram_type: letter_levels
+  kineme_type: single_letters
+Result: Simulated result for {'histogram_segment_size': 20, 'selected_levels': [1, 4, 7, 10, 13], 'hist_value': 'magnitude', 'histogram_type': 'letter_levels', 'kineme_type': 'single_letters'}
+----------------------------------------
+
+Index: 62
+Config:
+  histogram_segment_size: 20
+  selected_levels: [1, 4, 7, 10, 13]
+  hist_value: magnitude
+  histogram_type: letter_levels
+  kineme_type: singleton
+Result: Simulated result for {'histogram_segment_size': 20, 'selected_levels': [1, 4, 7, 10, 13], 'hist_value': 'magnitude', 'histogram_type': 'letter_levels', 'kineme_type': 'singleton'}
+----------------------------------------
+
+Index: 63
+Config:
+  histogram_segment_size: 20
+  selected_levels: [1, 4, 7, 10, 13]
+  hist_value: magnitude
+  histogram_type: letter_levels
+  kineme_type: one_nod
+Result: Simulated result for {'histogram_segment_size': 20, 'selected_levels': [1, 4, 7, 10, 13], 'hist_value': 'magnitude', 'histogram_type': 'letter_levels', 'kineme_type': 'one_nod'}
+----------------------------------------
+
+Index: 64
+Config:
+  histogram_segment_size: 20
+  selected_levels: [1, 4, 7, 10, 13]
+  hist_value: magnitude
+  histogram_type: letter_combined
+  kineme_type: single_letters
+Result: Simulated result for {'histogram_segment_size': 20, 'selected_levels': [1, 4, 7, 10, 13], 'hist_value': 'magnitude', 'histogram_type': 'letter_combined', 'kineme_type': 'single_letters'}
+----------------------------------------
+
+Index: 65
+Config:
+  histogram_segment_size: 20
+  selected_levels: [1, 4, 7, 10, 13]
+  hist_value: magnitude
+  histogram_type: letter_combined
+  kineme_type: singleton
+Result: Simulated result for {'histogram_segment_size': 20, 'selected_levels': [1, 4, 7, 10, 13], 'hist_value': 'magnitude', 'histogram_type': 'letter_combined', 'kineme_type': 'singleton'}
+----------------------------------------
+
+Index: 66
+Config:
+  histogram_segment_size: 20
+  selected_levels: [1, 4, 7, 10, 13]
+  hist_value: magnitude
+  histogram_type: letter_combined
+  kineme_type: one_nod
+Result: Simulated result for {'histogram_segment_size': 20, 'selected_levels': [1, 4, 7, 10, 13], 'hist_value': 'magnitude', 'histogram_type': 'letter_combined', 'kineme_type': 'one_nod'}
+----------------------------------------
+
+Index: 67
+Config:
+  histogram_segment_size: 20
+  selected_levels: [1, 4, 7, 10, 13]
+  hist_value: magnitude
+  histogram_type: letter_levels_and_combined
+  kineme_type: single_letters
+Result: Simulated result for {'histogram_segment_size': 20, 'selected_levels': [1, 4, 7, 10, 13], 'hist_value': 'magnitude', 'histogram_type': 'letter_levels_and_combined', 'kineme_type': 'single_letters'}
+----------------------------------------
+
+Index: 68
+Config:
+  histogram_segment_size: 20
+  selected_levels: [1, 4, 7, 10, 13]
+  hist_value: magnitude
+  histogram_type: letter_levels_and_combined
+  kineme_type: singleton
+Result: Simulated result for {'histogram_segment_size': 20, 'selected_levels': [1, 4, 7, 10, 13], 'hist_value': 'magnitude', 'histogram_type': 'letter_levels_and_combined', 'kineme_type': 'singleton'}
+----------------------------------------
+
+Index: 69
+Config:
+  histogram_segment_size: 20
+  selected_levels: [1, 4, 7, 10, 13]
+  hist_value: magnitude
+  histogram_type: letter_levels_and_combined
+  kineme_type: one_nod
+Result: Simulated result for {'histogram_segment_size': 20, 'selected_levels': [1, 4, 7, 10, 13], 'hist_value': 'magnitude', 'histogram_type': 'letter_levels_and_combined', 'kineme_type': 'one_nod'}
+----------------------------------------
+
+Index: 70
+Config:
+  histogram_segment_size: 20
+  selected_levels: [1, 4, 7, 10, 13]
+  hist_value: magnitude
+  histogram_type: kineme_levels_and_combined
+  kineme_type: single_letters
+Result: Simulated result for {'histogram_segment_size': 20, 'selected_levels': [1, 4, 7, 10, 13], 'hist_value': 'magnitude', 'histogram_type': 'kineme_levels_and_combined', 'kineme_type': 'single_letters'}
+----------------------------------------
+
+Index: 71
+Config:
+  histogram_segment_size: 20
+  selected_levels: [1, 4, 7, 10, 13]
+  hist_value: magnitude
+  histogram_type: kineme_levels_and_combined
+  kineme_type: singleton
+Result: Simulated result for {'histogram_segment_size': 20, 'selected_levels': [1, 4, 7, 10, 13], 'hist_value': 'magnitude', 'histogram_type': 'kineme_levels_and_combined', 'kineme_type': 'singleton'}
+----------------------------------------
+
+Index: 72
+Config:
+  histogram_segment_size: 20
+  selected_levels: [1, 4, 7, 10, 13]
+  hist_value: magnitude
+  histogram_type: kineme_levels_and_combined
+  kineme_type: one_nod
+Result: Simulated result for {'histogram_segment_size': 20, 'selected_levels': [1, 4, 7, 10, 13], 'hist_value': 'magnitude', 'histogram_type': 'kineme_levels_and_combined', 'kineme_type': 'one_nod'}
+----------------------------------------
+
+Index: 73
+Config:
+  histogram_segment_size: 20
+  selected_levels: [4, 7, 10, 13]
+  hist_value: count
+  histogram_type: letter_levels
+  kineme_type: single_letters
+Result: Simulated result for {'histogram_segment_size': 20, 'selected_levels': [4, 7, 10, 13], 'hist_value': 'count', 'histogram_type': 'letter_levels', 'kineme_type': 'single_letters'}
+----------------------------------------
+
+Index: 74
+Config:
+  histogram_segment_size: 20
+  selected_levels: [4, 7, 10, 13]
+  hist_value: count
+  histogram_type: letter_levels
+  kineme_type: singleton
+Result: Simulated result for {'histogram_segment_size': 20, 'selected_levels': [4, 7, 10, 13], 'hist_value': 'count', 'histogram_type': 'letter_levels', 'kineme_type': 'singleton'}
+----------------------------------------
+
+Index: 75
+Config:
+  histogram_segment_size: 20
+  selected_levels: [4, 7, 10, 13]
+  hist_value: count
+  histogram_type: letter_levels
+  kineme_type: one_nod
+Result: Simulated result for {'histogram_segment_size': 20, 'selected_levels': [4, 7, 10, 13], 'hist_value': 'count', 'histogram_type': 'letter_levels', 'kineme_type': 'one_nod'}
+----------------------------------------
+
+Index: 76
+Config:
+  histogram_segment_size: 20
+  selected_levels: [4, 7, 10, 13]
+  hist_value: count
+  histogram_type: letter_combined
+  kineme_type: single_letters
+Result: Simulated result for {'histogram_segment_size': 20, 'selected_levels': [4, 7, 10, 13], 'hist_value': 'count', 'histogram_type': 'letter_combined', 'kineme_type': 'single_letters'}
+----------------------------------------
+
+Index: 77
+Config:
+  histogram_segment_size: 20
+  selected_levels: [4, 7, 10, 13]
+  hist_value: count
+  histogram_type: letter_combined
+  kineme_type: singleton
+Result: Simulated result for {'histogram_segment_size': 20, 'selected_levels': [4, 7, 10, 13], 'hist_value': 'count', 'histogram_type': 'letter_combined', 'kineme_type': 'singleton'}
+----------------------------------------
+
+Index: 78
+Config:
+  histogram_segment_size: 20
+  selected_levels: [4, 7, 10, 13]
+  hist_value: count
+  histogram_type: letter_combined
+  kineme_type: one_nod
+Result: Simulated result for {'histogram_segment_size': 20, 'selected_levels': [4, 7, 10, 13], 'hist_value': 'count', 'histogram_type': 'letter_combined', 'kineme_type': 'one_nod'}
+----------------------------------------
+
+Index: 79
+Config:
+  histogram_segment_size: 20
+  selected_levels: [4, 7, 10, 13]
+  hist_value: count
+  histogram_type: letter_levels_and_combined
+  kineme_type: single_letters
+Result: Simulated result for {'histogram_segment_size': 20, 'selected_levels': [4, 7, 10, 13], 'hist_value': 'count', 'histogram_type': 'letter_levels_and_combined', 'kineme_type': 'single_letters'}
+----------------------------------------
+
+Index: 80
+Config:
+  histogram_segment_size: 20
+  selected_levels: [4, 7, 10, 13]
+  hist_value: count
+  histogram_type: letter_levels_and_combined
+  kineme_type: singleton
+Result: Simulated result for {'histogram_segment_size': 20, 'selected_levels': [4, 7, 10, 13], 'hist_value': 'count', 'histogram_type': 'letter_levels_and_combined', 'kineme_type': 'singleton'}
+----------------------------------------
+
+Index: 81
+Config:
+  histogram_segment_size: 20
+  selected_levels: [4, 7, 10, 13]
+  hist_value: count
+  histogram_type: letter_levels_and_combined
+  kineme_type: one_nod
+Result: Simulated result for {'histogram_segment_size': 20, 'selected_levels': [4, 7, 10, 13], 'hist_value': 'count', 'histogram_type': 'letter_levels_and_combined', 'kineme_type': 'one_nod'}
+----------------------------------------
+
+Index: 82
+Config:
+  histogram_segment_size: 20
+  selected_levels: [4, 7, 10, 13]
+  hist_value: count
+  histogram_type: kineme_levels_and_combined
+  kineme_type: single_letters
+Result: Simulated result for {'histogram_segment_size': 20, 'selected_levels': [4, 7, 10, 13], 'hist_value': 'count', 'histogram_type': 'kineme_levels_and_combined', 'kineme_type': 'single_letters'}
+----------------------------------------
+
+Index: 83
+Config:
+  histogram_segment_size: 20
+  selected_levels: [4, 7, 10, 13]
+  hist_value: count
+  histogram_type: kineme_levels_and_combined
+  kineme_type: singleton
+Result: Simulated result for {'histogram_segment_size': 20, 'selected_levels': [4, 7, 10, 13], 'hist_value': 'count', 'histogram_type': 'kineme_levels_and_combined', 'kineme_type': 'singleton'}
+----------------------------------------
+
+Index: 84
+Config:
+  histogram_segment_size: 20
+  selected_levels: [4, 7, 10, 13]
+  hist_value: count
+  histogram_type: kineme_levels_and_combined
+  kineme_type: one_nod
+Result: Simulated result for {'histogram_segment_size': 20, 'selected_levels': [4, 7, 10, 13], 'hist_value': 'count', 'histogram_type': 'kineme_levels_and_combined', 'kineme_type': 'one_nod'}
+----------------------------------------
+
+Index: 85
+Config:
+  histogram_segment_size: 20
+  selected_levels: [4, 7, 10, 13]
+  hist_value: magnitude
+  histogram_type: letter_levels
+  kineme_type: single_letters
+Result: Simulated result for {'histogram_segment_size': 20, 'selected_levels': [4, 7, 10, 13], 'hist_value': 'magnitude', 'histogram_type': 'letter_levels', 'kineme_type': 'single_letters'}
+----------------------------------------
+
+Index: 86
+Config:
+  histogram_segment_size: 20
+  selected_levels: [4, 7, 10, 13]
+  hist_value: magnitude
+  histogram_type: letter_levels
+  kineme_type: singleton
+Result: Simulated result for {'histogram_segment_size': 20, 'selected_levels': [4, 7, 10, 13], 'hist_value': 'magnitude', 'histogram_type': 'letter_levels', 'kineme_type': 'singleton'}
+----------------------------------------
+
+Index: 87
+Config:
+  histogram_segment_size: 20
+  selected_levels: [4, 7, 10, 13]
+  hist_value: magnitude
+  histogram_type: letter_levels
+  kineme_type: one_nod
+Result: Simulated result for {'histogram_segment_size': 20, 'selected_levels': [4, 7, 10, 13], 'hist_value': 'magnitude', 'histogram_type': 'letter_levels', 'kineme_type': 'one_nod'}
+----------------------------------------
+
+Index: 88
+Config:
+  histogram_segment_size: 20
+  selected_levels: [4, 7, 10, 13]
+  hist_value: magnitude
+  histogram_type: letter_combined
+  kineme_type: single_letters
+Result: Simulated result for {'histogram_segment_size': 20, 'selected_levels': [4, 7, 10, 13], 'hist_value': 'magnitude', 'histogram_type': 'letter_combined', 'kineme_type': 'single_letters'}
+----------------------------------------
+
+Index: 89
+Config:
+  histogram_segment_size: 20
+  selected_levels: [4, 7, 10, 13]
+  hist_value: magnitude
+  histogram_type: letter_combined
+  kineme_type: singleton
+Result: Simulated result for {'histogram_segment_size': 20, 'selected_levels': [4, 7, 10, 13], 'hist_value': 'magnitude', 'histogram_type': 'letter_combined', 'kineme_type': 'singleton'}
+----------------------------------------
+
+Index: 90
+Config:
+  histogram_segment_size: 20
+  selected_levels: [4, 7, 10, 13]
+  hist_value: magnitude
+  histogram_type: letter_combined
+  kineme_type: one_nod
+Result: Simulated result for {'histogram_segment_size': 20, 'selected_levels': [4, 7, 10, 13], 'hist_value': 'magnitude', 'histogram_type': 'letter_combined', 'kineme_type': 'one_nod'}
+----------------------------------------
+
+Index: 91
+Config:
+  histogram_segment_size: 20
+  selected_levels: [4, 7, 10, 13]
+  hist_value: magnitude
+  histogram_type: letter_levels_and_combined
+  kineme_type: single_letters
+Result: Simulated result for {'histogram_segment_size': 20, 'selected_levels': [4, 7, 10, 13], 'hist_value': 'magnitude', 'histogram_type': 'letter_levels_and_combined', 'kineme_type': 'single_letters'}
+----------------------------------------
+
+Index: 92
+Config:
+  histogram_segment_size: 20
+  selected_levels: [4, 7, 10, 13]
+  hist_value: magnitude
+  histogram_type: letter_levels_and_combined
+  kineme_type: singleton
+Result: Simulated result for {'histogram_segment_size': 20, 'selected_levels': [4, 7, 10, 13], 'hist_value': 'magnitude', 'histogram_type': 'letter_levels_and_combined', 'kineme_type': 'singleton'}
+----------------------------------------
+
+Index: 93
+Config:
+  histogram_segment_size: 20
+  selected_levels: [4, 7, 10, 13]
+  hist_value: magnitude
+  histogram_type: letter_levels_and_combined
+  kineme_type: one_nod
+Result: Simulated result for {'histogram_segment_size': 20, 'selected_levels': [4, 7, 10, 13], 'hist_value': 'magnitude', 'histogram_type': 'letter_levels_and_combined', 'kineme_type': 'one_nod'}
+----------------------------------------
+
+Index: 94
+Config:
+  histogram_segment_size: 20
+  selected_levels: [4, 7, 10, 13]
+  hist_value: magnitude
+  histogram_type: kineme_levels_and_combined
+  kineme_type: single_letters
+Result: Simulated result for {'histogram_segment_size': 20, 'selected_levels': [4, 7, 10, 13], 'hist_value': 'magnitude', 'histogram_type': 'kineme_levels_and_combined', 'kineme_type': 'single_letters'}
+----------------------------------------
+
+Index: 95
+Config:
+  histogram_segment_size: 20
+  selected_levels: [4, 7, 10, 13]
+  hist_value: magnitude
+  histogram_type: kineme_levels_and_combined
+  kineme_type: singleton
+Result: Simulated result for {'histogram_segment_size': 20, 'selected_levels': [4, 7, 10, 13], 'hist_value': 'magnitude', 'histogram_type': 'kineme_levels_and_combined', 'kineme_type': 'singleton'}
+----------------------------------------
+
+Index: 96
+Config:
+  histogram_segment_size: 20
+  selected_levels: [4, 7, 10, 13]
+  hist_value: magnitude
+  histogram_type: kineme_levels_and_combined
+  kineme_type: one_nod
+Result: Simulated result for {'histogram_segment_size': 20, 'selected_levels': [4, 7, 10, 13], 'hist_value': 'magnitude', 'histogram_type': 'kineme_levels_and_combined', 'kineme_type': 'one_nod'}
+----------------------------------------
+
+Index: 97
+Config:
+  histogram_segment_size: 40
+  selected_levels: [1, 4, 7]
+  hist_value: count
+  histogram_type: letter_levels
+  kineme_type: single_letters
+Result: Simulated result for {'histogram_segment_size': 40, 'selected_levels': [1, 4, 7], 'hist_value': 'count', 'histogram_type': 'letter_levels', 'kineme_type': 'single_letters'}
+----------------------------------------
+
+Index: 98
+Config:
+  histogram_segment_size: 40
+  selected_levels: [1, 4, 7]
+  hist_value: count
+  histogram_type: letter_levels
+  kineme_type: singleton
+Result: Simulated result for {'histogram_segment_size': 40, 'selected_levels': [1, 4, 7], 'hist_value': 'count', 'histogram_type': 'letter_levels', 'kineme_type': 'singleton'}
+----------------------------------------
+
+Index: 99
+Config:
+  histogram_segment_size: 40
+  selected_levels: [1, 4, 7]
+  hist_value: count
+  histogram_type: letter_levels
+  kineme_type: one_nod
+Result: Simulated result for {'histogram_segment_size': 40, 'selected_levels': [1, 4, 7], 'hist_value': 'count', 'histogram_type': 'letter_levels', 'kineme_type': 'one_nod'}
+----------------------------------------
+
+Index: 100
+Config:
+  histogram_segment_size: 40
+  selected_levels: [1, 4, 7]
+  hist_value: count
+  histogram_type: letter_combined
+  kineme_type: single_letters
+Result: Simulated result for {'histogram_segment_size': 40, 'selected_levels': [1, 4, 7], 'hist_value': 'count', 'histogram_type': 'letter_combined', 'kineme_type': 'single_letters'}
+----------------------------------------
+
+Index: 101
+Config:
+  histogram_segment_size: 40
+  selected_levels: [1, 4, 7]
+  hist_value: count
+  histogram_type: letter_combined
+  kineme_type: singleton
+Result: Simulated result for {'histogram_segment_size': 40, 'selected_levels': [1, 4, 7], 'hist_value': 'count', 'histogram_type': 'letter_combined', 'kineme_type': 'singleton'}
+----------------------------------------
+
+Index: 102
+Config:
+  histogram_segment_size: 40
+  selected_levels: [1, 4, 7]
+  hist_value: count
+  histogram_type: letter_combined
+  kineme_type: one_nod
+Result: Simulated result for {'histogram_segment_size': 40, 'selected_levels': [1, 4, 7], 'hist_value': 'count', 'histogram_type': 'letter_combined', 'kineme_type': 'one_nod'}
+----------------------------------------
+
+Index: 103
+Config:
+  histogram_segment_size: 40
+  selected_levels: [1, 4, 7]
+  hist_value: count
+  histogram_type: letter_levels_and_combined
+  kineme_type: single_letters
+Result: Simulated result for {'histogram_segment_size': 40, 'selected_levels': [1, 4, 7], 'hist_value': 'count', 'histogram_type': 'letter_levels_and_combined', 'kineme_type': 'single_letters'}
+----------------------------------------
+
+Index: 104
+Config:
+  histogram_segment_size: 40
+  selected_levels: [1, 4, 7]
+  hist_value: count
+  histogram_type: letter_levels_and_combined
+  kineme_type: singleton
+Result: Simulated result for {'histogram_segment_size': 40, 'selected_levels': [1, 4, 7], 'hist_value': 'count', 'histogram_type': 'letter_levels_and_combined', 'kineme_type': 'singleton'}
+----------------------------------------
+
+Index: 105
+Config:
+  histogram_segment_size: 40
+  selected_levels: [1, 4, 7]
+  hist_value: count
+  histogram_type: letter_levels_and_combined
+  kineme_type: one_nod
+Result: Simulated result for {'histogram_segment_size': 40, 'selected_levels': [1, 4, 7], 'hist_value': 'count', 'histogram_type': 'letter_levels_and_combined', 'kineme_type': 'one_nod'}
+----------------------------------------
+
+Index: 106
+Config:
+  histogram_segment_size: 40
+  selected_levels: [1, 4, 7]
+  hist_value: count
+  histogram_type: kineme_levels_and_combined
+  kineme_type: single_letters
+Result: Simulated result for {'histogram_segment_size': 40, 'selected_levels': [1, 4, 7], 'hist_value': 'count', 'histogram_type': 'kineme_levels_and_combined', 'kineme_type': 'single_letters'}
+----------------------------------------
+
+Index: 107
+Config:
+  histogram_segment_size: 40
+  selected_levels: [1, 4, 7]
+  hist_value: count
+  histogram_type: kineme_levels_and_combined
+  kineme_type: singleton
+Result: Simulated result for {'histogram_segment_size': 40, 'selected_levels': [1, 4, 7], 'hist_value': 'count', 'histogram_type': 'kineme_levels_and_combined', 'kineme_type': 'singleton'}
+----------------------------------------
+
+Index: 108
+Config:
+  histogram_segment_size: 40
+  selected_levels: [1, 4, 7]
+  hist_value: count
+  histogram_type: kineme_levels_and_combined
+  kineme_type: one_nod
+Result: Simulated result for {'histogram_segment_size': 40, 'selected_levels': [1, 4, 7], 'hist_value': 'count', 'histogram_type': 'kineme_levels_and_combined', 'kineme_type': 'one_nod'}
+----------------------------------------
+
+Index: 109
+Config:
+  histogram_segment_size: 40
+  selected_levels: [1, 4, 7]
+  hist_value: magnitude
+  histogram_type: letter_levels
+  kineme_type: single_letters
+Result: Simulated result for {'histogram_segment_size': 40, 'selected_levels': [1, 4, 7], 'hist_value': 'magnitude', 'histogram_type': 'letter_levels', 'kineme_type': 'single_letters'}
+----------------------------------------
+
+Index: 110
+Config:
+  histogram_segment_size: 40
+  selected_levels: [1, 4, 7]
+  hist_value: magnitude
+  histogram_type: letter_levels
+  kineme_type: singleton
+Result: Simulated result for {'histogram_segment_size': 40, 'selected_levels': [1, 4, 7], 'hist_value': 'magnitude', 'histogram_type': 'letter_levels', 'kineme_type': 'singleton'}
+----------------------------------------
+
+Index: 111
+Config:
+  histogram_segment_size: 40
+  selected_levels: [1, 4, 7]
+  hist_value: magnitude
+  histogram_type: letter_levels
+  kineme_type: one_nod
+Result: Simulated result for {'histogram_segment_size': 40, 'selected_levels': [1, 4, 7], 'hist_value': 'magnitude', 'histogram_type': 'letter_levels', 'kineme_type': 'one_nod'}
+----------------------------------------
+
+Index: 112
+Config:
+  histogram_segment_size: 40
+  selected_levels: [1, 4, 7]
+  hist_value: magnitude
+  histogram_type: letter_combined
+  kineme_type: single_letters
+Result: Simulated result for {'histogram_segment_size': 40, 'selected_levels': [1, 4, 7], 'hist_value': 'magnitude', 'histogram_type': 'letter_combined', 'kineme_type': 'single_letters'}
+----------------------------------------
+
+Index: 113
+Config:
+  histogram_segment_size: 40
+  selected_levels: [1, 4, 7]
+  hist_value: magnitude
+  histogram_type: letter_combined
+  kineme_type: singleton
+Result: Simulated result for {'histogram_segment_size': 40, 'selected_levels': [1, 4, 7], 'hist_value': 'magnitude', 'histogram_type': 'letter_combined', 'kineme_type': 'singleton'}
+----------------------------------------
+
+Index: 114
+Config:
+  histogram_segment_size: 40
+  selected_levels: [1, 4, 7]
+  hist_value: magnitude
+  histogram_type: letter_combined
+  kineme_type: one_nod
+Result: Simulated result for {'histogram_segment_size': 40, 'selected_levels': [1, 4, 7], 'hist_value': 'magnitude', 'histogram_type': 'letter_combined', 'kineme_type': 'one_nod'}
+----------------------------------------
+
+Index: 115
+Config:
+  histogram_segment_size: 40
+  selected_levels: [1, 4, 7]
+  hist_value: magnitude
+  histogram_type: letter_levels_and_combined
+  kineme_type: single_letters
+Result: Simulated result for {'histogram_segment_size': 40, 'selected_levels': [1, 4, 7], 'hist_value': 'magnitude', 'histogram_type': 'letter_levels_and_combined', 'kineme_type': 'single_letters'}
+----------------------------------------
+
+Index: 116
+Config:
+  histogram_segment_size: 40
+  selected_levels: [1, 4, 7]
+  hist_value: magnitude
+  histogram_type: letter_levels_and_combined
+  kineme_type: singleton
+Result: Simulated result for {'histogram_segment_size': 40, 'selected_levels': [1, 4, 7], 'hist_value': 'magnitude', 'histogram_type': 'letter_levels_and_combined', 'kineme_type': 'singleton'}
+----------------------------------------
+
+Index: 117
+Config:
+  histogram_segment_size: 40
+  selected_levels: [1, 4, 7]
+  hist_value: magnitude
+  histogram_type: letter_levels_and_combined
+  kineme_type: one_nod
+Result: Simulated result for {'histogram_segment_size': 40, 'selected_levels': [1, 4, 7], 'hist_value': 'magnitude', 'histogram_type': 'letter_levels_and_combined', 'kineme_type': 'one_nod'}
+----------------------------------------
+
+Index: 118
+Config:
+  histogram_segment_size: 40
+  selected_levels: [1, 4, 7]
+  hist_value: magnitude
+  histogram_type: kineme_levels_and_combined
+  kineme_type: single_letters
+Result: Simulated result for {'histogram_segment_size': 40, 'selected_levels': [1, 4, 7], 'hist_value': 'magnitude', 'histogram_type': 'kineme_levels_and_combined', 'kineme_type': 'single_letters'}
+----------------------------------------
+
+Index: 119
+Config:
+  histogram_segment_size: 40
+  selected_levels: [1, 4, 7]
+  hist_value: magnitude
+  histogram_type: kineme_levels_and_combined
+  kineme_type: singleton
+Result: Simulated result for {'histogram_segment_size': 40, 'selected_levels': [1, 4, 7], 'hist_value': 'magnitude', 'histogram_type': 'kineme_levels_and_combined', 'kineme_type': 'singleton'}
+----------------------------------------
+
+Index: 120
+Config:
+  histogram_segment_size: 40
+  selected_levels: [1, 4, 7]
+  hist_value: magnitude
+  histogram_type: kineme_levels_and_combined
+  kineme_type: one_nod
+Result: Simulated result for {'histogram_segment_size': 40, 'selected_levels': [1, 4, 7], 'hist_value': 'magnitude', 'histogram_type': 'kineme_levels_and_combined', 'kineme_type': 'one_nod'}
+----------------------------------------
+
+Index: 121
+Config:
+  histogram_segment_size: 40
+  selected_levels: [1, 4, 7, 10]
+  hist_value: count
+  histogram_type: letter_levels
+  kineme_type: single_letters
+Result: Simulated result for {'histogram_segment_size': 40, 'selected_levels': [1, 4, 7, 10], 'hist_value': 'count', 'histogram_type': 'letter_levels', 'kineme_type': 'single_letters'}
+----------------------------------------
+
+Index: 122
+Config:
+  histogram_segment_size: 40
+  selected_levels: [1, 4, 7, 10]
+  hist_value: count
+  histogram_type: letter_levels
+  kineme_type: singleton
+Result: Simulated result for {'histogram_segment_size': 40, 'selected_levels': [1, 4, 7, 10], 'hist_value': 'count', 'histogram_type': 'letter_levels', 'kineme_type': 'singleton'}
+----------------------------------------
+
+Index: 123
+Config:
+  histogram_segment_size: 40
+  selected_levels: [1, 4, 7, 10]
+  hist_value: count
+  histogram_type: letter_levels
+  kineme_type: one_nod
+Result: Simulated result for {'histogram_segment_size': 40, 'selected_levels': [1, 4, 7, 10], 'hist_value': 'count', 'histogram_type': 'letter_levels', 'kineme_type': 'one_nod'}
+----------------------------------------
+
+Index: 124
+Config:
+  histogram_segment_size: 40
+  selected_levels: [1, 4, 7, 10]
+  hist_value: count
+  histogram_type: letter_combined
+  kineme_type: single_letters
+Result: Simulated result for {'histogram_segment_size': 40, 'selected_levels': [1, 4, 7, 10], 'hist_value': 'count', 'histogram_type': 'letter_combined', 'kineme_type': 'single_letters'}
+----------------------------------------
+
+Index: 125
+Config:
+  histogram_segment_size: 40
+  selected_levels: [1, 4, 7, 10]
+  hist_value: count
+  histogram_type: letter_combined
+  kineme_type: singleton
+Result: Simulated result for {'histogram_segment_size': 40, 'selected_levels': [1, 4, 7, 10], 'hist_value': 'count', 'histogram_type': 'letter_combined', 'kineme_type': 'singleton'}
+----------------------------------------
+
+Index: 126
+Config:
+  histogram_segment_size: 40
+  selected_levels: [1, 4, 7, 10]
+  hist_value: count
+  histogram_type: letter_combined
+  kineme_type: one_nod
+Result: Simulated result for {'histogram_segment_size': 40, 'selected_levels': [1, 4, 7, 10], 'hist_value': 'count', 'histogram_type': 'letter_combined', 'kineme_type': 'one_nod'}
+----------------------------------------
+
+Index: 127
+Config:
+  histogram_segment_size: 40
+  selected_levels: [1, 4, 7, 10]
+  hist_value: count
+  histogram_type: letter_levels_and_combined
+  kineme_type: single_letters
+Result: Simulated result for {'histogram_segment_size': 40, 'selected_levels': [1, 4, 7, 10], 'hist_value': 'count', 'histogram_type': 'letter_levels_and_combined', 'kineme_type': 'single_letters'}
+----------------------------------------
+
+Index: 128
+Config:
+  histogram_segment_size: 40
+  selected_levels: [1, 4, 7, 10]
+  hist_value: count
+  histogram_type: letter_levels_and_combined
+  kineme_type: singleton
+Result: Simulated result for {'histogram_segment_size': 40, 'selected_levels': [1, 4, 7, 10], 'hist_value': 'count', 'histogram_type': 'letter_levels_and_combined', 'kineme_type': 'singleton'}
+----------------------------------------
+
+Index: 129
+Config:
+  histogram_segment_size: 40
+  selected_levels: [1, 4, 7, 10]
+  hist_value: count
+  histogram_type: letter_levels_and_combined
+  kineme_type: one_nod
+Result: Simulated result for {'histogram_segment_size': 40, 'selected_levels': [1, 4, 7, 10], 'hist_value': 'count', 'histogram_type': 'letter_levels_and_combined', 'kineme_type': 'one_nod'}
+----------------------------------------
+
+Index: 130
+Config:
+  histogram_segment_size: 40
+  selected_levels: [1, 4, 7, 10]
+  hist_value: count
+  histogram_type: kineme_levels_and_combined
+  kineme_type: single_letters
+Result: Simulated result for {'histogram_segment_size': 40, 'selected_levels': [1, 4, 7, 10], 'hist_value': 'count', 'histogram_type': 'kineme_levels_and_combined', 'kineme_type': 'single_letters'}
+----------------------------------------
+
+Index: 131
+Config:
+  histogram_segment_size: 40
+  selected_levels: [1, 4, 7, 10]
+  hist_value: count
+  histogram_type: kineme_levels_and_combined
+  kineme_type: singleton
+Result: Simulated result for {'histogram_segment_size': 40, 'selected_levels': [1, 4, 7, 10], 'hist_value': 'count', 'histogram_type': 'kineme_levels_and_combined', 'kineme_type': 'singleton'}
+----------------------------------------
+
+Index: 132
+Config:
+  histogram_segment_size: 40
+  selected_levels: [1, 4, 7, 10]
+  hist_value: count
+  histogram_type: kineme_levels_and_combined
+  kineme_type: one_nod
+Result: Simulated result for {'histogram_segment_size': 40, 'selected_levels': [1, 4, 7, 10], 'hist_value': 'count', 'histogram_type': 'kineme_levels_and_combined', 'kineme_type': 'one_nod'}
+----------------------------------------
+
+Index: 133
+Config:
+  histogram_segment_size: 40
+  selected_levels: [1, 4, 7, 10]
+  hist_value: magnitude
+  histogram_type: letter_levels
+  kineme_type: single_letters
+Result: Simulated result for {'histogram_segment_size': 40, 'selected_levels': [1, 4, 7, 10], 'hist_value': 'magnitude', 'histogram_type': 'letter_levels', 'kineme_type': 'single_letters'}
+----------------------------------------
+
+Index: 134
+Config:
+  histogram_segment_size: 40
+  selected_levels: [1, 4, 7, 10]
+  hist_value: magnitude
+  histogram_type: letter_levels
+  kineme_type: singleton
+Result: Simulated result for {'histogram_segment_size': 40, 'selected_levels': [1, 4, 7, 10], 'hist_value': 'magnitude', 'histogram_type': 'letter_levels', 'kineme_type': 'singleton'}
+----------------------------------------
+
+Index: 135
+Config:
+  histogram_segment_size: 40
+  selected_levels: [1, 4, 7, 10]
+  hist_value: magnitude
+  histogram_type: letter_levels
+  kineme_type: one_nod
+Result: Simulated result for {'histogram_segment_size': 40, 'selected_levels': [1, 4, 7, 10], 'hist_value': 'magnitude', 'histogram_type': 'letter_levels', 'kineme_type': 'one_nod'}
+----------------------------------------
+
+Index: 136
+Config:
+  histogram_segment_size: 40
+  selected_levels: [1, 4, 7, 10]
+  hist_value: magnitude
+  histogram_type: letter_combined
+  kineme_type: single_letters
+Result: Simulated result for {'histogram_segment_size': 40, 'selected_levels': [1, 4, 7, 10], 'hist_value': 'magnitude', 'histogram_type': 'letter_combined', 'kineme_type': 'single_letters'}
+----------------------------------------
+
+Index: 137
+Config:
+  histogram_segment_size: 40
+  selected_levels: [1, 4, 7, 10]
+  hist_value: magnitude
+  histogram_type: letter_combined
+  kineme_type: singleton
+Result: Simulated result for {'histogram_segment_size': 40, 'selected_levels': [1, 4, 7, 10], 'hist_value': 'magnitude', 'histogram_type': 'letter_combined', 'kineme_type': 'singleton'}
+----------------------------------------
+
+Index: 138
+Config:
+  histogram_segment_size: 40
+  selected_levels: [1, 4, 7, 10]
+  hist_value: magnitude
+  histogram_type: letter_combined
+  kineme_type: one_nod
+Result: Simulated result for {'histogram_segment_size': 40, 'selected_levels': [1, 4, 7, 10], 'hist_value': 'magnitude', 'histogram_type': 'letter_combined', 'kineme_type': 'one_nod'}
+----------------------------------------
+
+Index: 139
+Config:
+  histogram_segment_size: 40
+  selected_levels: [1, 4, 7, 10]
+  hist_value: magnitude
+  histogram_type: letter_levels_and_combined
+  kineme_type: single_letters
+Result: Simulated result for {'histogram_segment_size': 40, 'selected_levels': [1, 4, 7, 10], 'hist_value': 'magnitude', 'histogram_type': 'letter_levels_and_combined', 'kineme_type': 'single_letters'}
+----------------------------------------
+
+Index: 140
+Config:
+  histogram_segment_size: 40
+  selected_levels: [1, 4, 7, 10]
+  hist_value: magnitude
+  histogram_type: letter_levels_and_combined
+  kineme_type: singleton
+Result: Simulated result for {'histogram_segment_size': 40, 'selected_levels': [1, 4, 7, 10], 'hist_value': 'magnitude', 'histogram_type': 'letter_levels_and_combined', 'kineme_type': 'singleton'}
+----------------------------------------
+
+Index: 141
+Config:
+  histogram_segment_size: 40
+  selected_levels: [1, 4, 7, 10]
+  hist_value: magnitude
+  histogram_type: letter_levels_and_combined
+  kineme_type: one_nod
+Result: Simulated result for {'histogram_segment_size': 40, 'selected_levels': [1, 4, 7, 10], 'hist_value': 'magnitude', 'histogram_type': 'letter_levels_and_combined', 'kineme_type': 'one_nod'}
+----------------------------------------
+
+Index: 142
+Config:
+  histogram_segment_size: 40
+  selected_levels: [1, 4, 7, 10]
+  hist_value: magnitude
+  histogram_type: kineme_levels_and_combined
+  kineme_type: single_letters
+Result: Simulated result for {'histogram_segment_size': 40, 'selected_levels': [1, 4, 7, 10], 'hist_value': 'magnitude', 'histogram_type': 'kineme_levels_and_combined', 'kineme_type': 'single_letters'}
+----------------------------------------
+
+Index: 143
+Config:
+  histogram_segment_size: 40
+  selected_levels: [1, 4, 7, 10]
+  hist_value: magnitude
+  histogram_type: kineme_levels_and_combined
+  kineme_type: singleton
+Result: Simulated result for {'histogram_segment_size': 40, 'selected_levels': [1, 4, 7, 10], 'hist_value': 'magnitude', 'histogram_type': 'kineme_levels_and_combined', 'kineme_type': 'singleton'}
+----------------------------------------
+
+Index: 144
+Config:
+  histogram_segment_size: 40
+  selected_levels: [1, 4, 7, 10]
+  hist_value: magnitude
+  histogram_type: kineme_levels_and_combined
+  kineme_type: one_nod
+Result: Simulated result for {'histogram_segment_size': 40, 'selected_levels': [1, 4, 7, 10], 'hist_value': 'magnitude', 'histogram_type': 'kineme_levels_and_combined', 'kineme_type': 'one_nod'}
+----------------------------------------
+
+Index: 145
+Config:
+  histogram_segment_size: 40
+  selected_levels: [1, 4, 7, 10, 13]
+  hist_value: count
+  histogram_type: letter_levels
+  kineme_type: single_letters
+Result: Simulated result for {'histogram_segment_size': 40, 'selected_levels': [1, 4, 7, 10, 13], 'hist_value': 'count', 'histogram_type': 'letter_levels', 'kineme_type': 'single_letters'}
+----------------------------------------
+
+Index: 146
+Config:
+  histogram_segment_size: 40
+  selected_levels: [1, 4, 7, 10, 13]
+  hist_value: count
+  histogram_type: letter_levels
+  kineme_type: singleton
+Result: Simulated result for {'histogram_segment_size': 40, 'selected_levels': [1, 4, 7, 10, 13], 'hist_value': 'count', 'histogram_type': 'letter_levels', 'kineme_type': 'singleton'}
+----------------------------------------
+
+Index: 147
+Config:
+  histogram_segment_size: 40
+  selected_levels: [1, 4, 7, 10, 13]
+  hist_value: count
+  histogram_type: letter_levels
+  kineme_type: one_nod
+Result: Simulated result for {'histogram_segment_size': 40, 'selected_levels': [1, 4, 7, 10, 13], 'hist_value': 'count', 'histogram_type': 'letter_levels', 'kineme_type': 'one_nod'}
+----------------------------------------
+
+Index: 148
+Config:
+  histogram_segment_size: 40
+  selected_levels: [1, 4, 7, 10, 13]
+  hist_value: count
+  histogram_type: letter_combined
+  kineme_type: single_letters
+Result: Simulated result for {'histogram_segment_size': 40, 'selected_levels': [1, 4, 7, 10, 13], 'hist_value': 'count', 'histogram_type': 'letter_combined', 'kineme_type': 'single_letters'}
+----------------------------------------
+
+Index: 149
+Config:
+  histogram_segment_size: 40
+  selected_levels: [1, 4, 7, 10, 13]
+  hist_value: count
+  histogram_type: letter_combined
+  kineme_type: singleton
+Result: Simulated result for {'histogram_segment_size': 40, 'selected_levels': [1, 4, 7, 10, 13], 'hist_value': 'count', 'histogram_type': 'letter_combined', 'kineme_type': 'singleton'}
+----------------------------------------
+
+Index: 150
+Config:
+  histogram_segment_size: 40
+  selected_levels: [1, 4, 7, 10, 13]
+  hist_value: count
+  histogram_type: letter_combined
+  kineme_type: one_nod
+Result: Simulated result for {'histogram_segment_size': 40, 'selected_levels': [1, 4, 7, 10, 13], 'hist_value': 'count', 'histogram_type': 'letter_combined', 'kineme_type': 'one_nod'}
+----------------------------------------
+
+Index: 151
+Config:
+  histogram_segment_size: 40
+  selected_levels: [1, 4, 7, 10, 13]
+  hist_value: count
+  histogram_type: letter_levels_and_combined
+  kineme_type: single_letters
+Result: Simulated result for {'histogram_segment_size': 40, 'selected_levels': [1, 4, 7, 10, 13], 'hist_value': 'count', 'histogram_type': 'letter_levels_and_combined', 'kineme_type': 'single_letters'}
+----------------------------------------
+
+Index: 152
+Config:
+  histogram_segment_size: 40
+  selected_levels: [1, 4, 7, 10, 13]
+  hist_value: count
+  histogram_type: letter_levels_and_combined
+  kineme_type: singleton
+Result: Simulated result for {'histogram_segment_size': 40, 'selected_levels': [1, 4, 7, 10, 13], 'hist_value': 'count', 'histogram_type': 'letter_levels_and_combined', 'kineme_type': 'singleton'}
+----------------------------------------
+
+Index: 153
+Config:
+  histogram_segment_size: 40
+  selected_levels: [1, 4, 7, 10, 13]
+  hist_value: count
+  histogram_type: letter_levels_and_combined
+  kineme_type: one_nod
+Result: Simulated result for {'histogram_segment_size': 40, 'selected_levels': [1, 4, 7, 10, 13], 'hist_value': 'count', 'histogram_type': 'letter_levels_and_combined', 'kineme_type': 'one_nod'}
+----------------------------------------
+
+Index: 154
+Config:
+  histogram_segment_size: 40
+  selected_levels: [1, 4, 7, 10, 13]
+  hist_value: count
+  histogram_type: kineme_levels_and_combined
+  kineme_type: single_letters
+Result: Simulated result for {'histogram_segment_size': 40, 'selected_levels': [1, 4, 7, 10, 13], 'hist_value': 'count', 'histogram_type': 'kineme_levels_and_combined', 'kineme_type': 'single_letters'}
+----------------------------------------
+
+Index: 155
+Config:
+  histogram_segment_size: 40
+  selected_levels: [1, 4, 7, 10, 13]
+  hist_value: count
+  histogram_type: kineme_levels_and_combined
+  kineme_type: singleton
+Result: Simulated result for {'histogram_segment_size': 40, 'selected_levels': [1, 4, 7, 10, 13], 'hist_value': 'count', 'histogram_type': 'kineme_levels_and_combined', 'kineme_type': 'singleton'}
+----------------------------------------
+
+Index: 156
+Config:
+  histogram_segment_size: 40
+  selected_levels: [1, 4, 7, 10, 13]
+  hist_value: count
+  histogram_type: kineme_levels_and_combined
+  kineme_type: one_nod
+Result: Simulated result for {'histogram_segment_size': 40, 'selected_levels': [1, 4, 7, 10, 13], 'hist_value': 'count', 'histogram_type': 'kineme_levels_and_combined', 'kineme_type': 'one_nod'}
+----------------------------------------
+
+Index: 157
+Config:
+  histogram_segment_size: 40
+  selected_levels: [1, 4, 7, 10, 13]
+  hist_value: magnitude
+  histogram_type: letter_levels
+  kineme_type: single_letters
+Result: Simulated result for {'histogram_segment_size': 40, 'selected_levels': [1, 4, 7, 10, 13], 'hist_value': 'magnitude', 'histogram_type': 'letter_levels', 'kineme_type': 'single_letters'}
+----------------------------------------
+
+Index: 158
+Config:
+  histogram_segment_size: 40
+  selected_levels: [1, 4, 7, 10, 13]
+  hist_value: magnitude
+  histogram_type: letter_levels
+  kineme_type: singleton
+Result: Simulated result for {'histogram_segment_size': 40, 'selected_levels': [1, 4, 7, 10, 13], 'hist_value': 'magnitude', 'histogram_type': 'letter_levels', 'kineme_type': 'singleton'}
+----------------------------------------
+
+Index: 159
+Config:
+  histogram_segment_size: 40
+  selected_levels: [1, 4, 7, 10, 13]
+  hist_value: magnitude
+  histogram_type: letter_levels
+  kineme_type: one_nod
+Result: Simulated result for {'histogram_segment_size': 40, 'selected_levels': [1, 4, 7, 10, 13], 'hist_value': 'magnitude', 'histogram_type': 'letter_levels', 'kineme_type': 'one_nod'}
+----------------------------------------
+
+Index: 160
+Config:
+  histogram_segment_size: 40
+  selected_levels: [1, 4, 7, 10, 13]
+  hist_value: magnitude
+  histogram_type: letter_combined
+  kineme_type: single_letters
+Result: Simulated result for {'histogram_segment_size': 40, 'selected_levels': [1, 4, 7, 10, 13], 'hist_value': 'magnitude', 'histogram_type': 'letter_combined', 'kineme_type': 'single_letters'}
+----------------------------------------
+
+Index: 161
+Config:
+  histogram_segment_size: 40
+  selected_levels: [1, 4, 7, 10, 13]
+  hist_value: magnitude
+  histogram_type: letter_combined
+  kineme_type: singleton
+Result: Simulated result for {'histogram_segment_size': 40, 'selected_levels': [1, 4, 7, 10, 13], 'hist_value': 'magnitude', 'histogram_type': 'letter_combined', 'kineme_type': 'singleton'}
+----------------------------------------
+
+Index: 162
+Config:
+  histogram_segment_size: 40
+  selected_levels: [1, 4, 7, 10, 13]
+  hist_value: magnitude
+  histogram_type: letter_combined
+  kineme_type: one_nod
+Result: Simulated result for {'histogram_segment_size': 40, 'selected_levels': [1, 4, 7, 10, 13], 'hist_value': 'magnitude', 'histogram_type': 'letter_combined', 'kineme_type': 'one_nod'}
+----------------------------------------
+
+Index: 163
+Config:
+  histogram_segment_size: 40
+  selected_levels: [1, 4, 7, 10, 13]
+  hist_value: magnitude
+  histogram_type: letter_levels_and_combined
+  kineme_type: single_letters
+Result: Simulated result for {'histogram_segment_size': 40, 'selected_levels': [1, 4, 7, 10, 13], 'hist_value': 'magnitude', 'histogram_type': 'letter_levels_and_combined', 'kineme_type': 'single_letters'}
+----------------------------------------
+
+Index: 164
+Config:
+  histogram_segment_size: 40
+  selected_levels: [1, 4, 7, 10, 13]
+  hist_value: magnitude
+  histogram_type: letter_levels_and_combined
+  kineme_type: singleton
+Result: Simulated result for {'histogram_segment_size': 40, 'selected_levels': [1, 4, 7, 10, 13], 'hist_value': 'magnitude', 'histogram_type': 'letter_levels_and_combined', 'kineme_type': 'singleton'}
+----------------------------------------
+
+Index: 165
+Config:
+  histogram_segment_size: 40
+  selected_levels: [1, 4, 7, 10, 13]
+  hist_value: magnitude
+  histogram_type: letter_levels_and_combined
+  kineme_type: one_nod
+Result: Simulated result for {'histogram_segment_size': 40, 'selected_levels': [1, 4, 7, 10, 13], 'hist_value': 'magnitude', 'histogram_type': 'letter_levels_and_combined', 'kineme_type': 'one_nod'}
+----------------------------------------
+
+Index: 166
+Config:
+  histogram_segment_size: 40
+  selected_levels: [1, 4, 7, 10, 13]
+  hist_value: magnitude
+  histogram_type: kineme_levels_and_combined
+  kineme_type: single_letters
+Result: Simulated result for {'histogram_segment_size': 40, 'selected_levels': [1, 4, 7, 10, 13], 'hist_value': 'magnitude', 'histogram_type': 'kineme_levels_and_combined', 'kineme_type': 'single_letters'}
+----------------------------------------
+
+Index: 167
+Config:
+  histogram_segment_size: 40
+  selected_levels: [1, 4, 7, 10, 13]
+  hist_value: magnitude
+  histogram_type: kineme_levels_and_combined
+  kineme_type: singleton
+Result: Simulated result for {'histogram_segment_size': 40, 'selected_levels': [1, 4, 7, 10, 13], 'hist_value': 'magnitude', 'histogram_type': 'kineme_levels_and_combined', 'kineme_type': 'singleton'}
+----------------------------------------
+
+Index: 168
+Config:
+  histogram_segment_size: 40
+  selected_levels: [1, 4, 7, 10, 13]
+  hist_value: magnitude
+  histogram_type: kineme_levels_and_combined
+  kineme_type: one_nod
+Result: Simulated result for {'histogram_segment_size': 40, 'selected_levels': [1, 4, 7, 10, 13], 'hist_value': 'magnitude', 'histogram_type': 'kineme_levels_and_combined', 'kineme_type': 'one_nod'}
+----------------------------------------
+
+Index: 169
+Config:
+  histogram_segment_size: 40
+  selected_levels: [4, 7, 10, 13]
+  hist_value: count
+  histogram_type: letter_levels
+  kineme_type: single_letters
+Result: Simulated result for {'histogram_segment_size': 40, 'selected_levels': [4, 7, 10, 13], 'hist_value': 'count', 'histogram_type': 'letter_levels', 'kineme_type': 'single_letters'}
+----------------------------------------
+
+Index: 170
+Config:
+  histogram_segment_size: 40
+  selected_levels: [4, 7, 10, 13]
+  hist_value: count
+  histogram_type: letter_levels
+  kineme_type: singleton
+Result: Simulated result for {'histogram_segment_size': 40, 'selected_levels': [4, 7, 10, 13], 'hist_value': 'count', 'histogram_type': 'letter_levels', 'kineme_type': 'singleton'}
+----------------------------------------
+
+Index: 171
+Config:
+  histogram_segment_size: 40
+  selected_levels: [4, 7, 10, 13]
+  hist_value: count
+  histogram_type: letter_levels
+  kineme_type: one_nod
+Result: Simulated result for {'histogram_segment_size': 40, 'selected_levels': [4, 7, 10, 13], 'hist_value': 'count', 'histogram_type': 'letter_levels', 'kineme_type': 'one_nod'}
+----------------------------------------
+
+Index: 172
+Config:
+  histogram_segment_size: 40
+  selected_levels: [4, 7, 10, 13]
+  hist_value: count
+  histogram_type: letter_combined
+  kineme_type: single_letters
+Result: Simulated result for {'histogram_segment_size': 40, 'selected_levels': [4, 7, 10, 13], 'hist_value': 'count', 'histogram_type': 'letter_combined', 'kineme_type': 'single_letters'}
+----------------------------------------
+
+Index: 173
+Config:
+  histogram_segment_size: 40
+  selected_levels: [4, 7, 10, 13]
+  hist_value: count
+  histogram_type: letter_combined
+  kineme_type: singleton
+Result: Simulated result for {'histogram_segment_size': 40, 'selected_levels': [4, 7, 10, 13], 'hist_value': 'count', 'histogram_type': 'letter_combined', 'kineme_type': 'singleton'}
+----------------------------------------
+
+Index: 174
+Config:
+  histogram_segment_size: 40
+  selected_levels: [4, 7, 10, 13]
+  hist_value: count
+  histogram_type: letter_combined
+  kineme_type: one_nod
+Result: Simulated result for {'histogram_segment_size': 40, 'selected_levels': [4, 7, 10, 13], 'hist_value': 'count', 'histogram_type': 'letter_combined', 'kineme_type': 'one_nod'}
+----------------------------------------
+
+Index: 175
+Config:
+  histogram_segment_size: 40
+  selected_levels: [4, 7, 10, 13]
+  hist_value: count
+  histogram_type: letter_levels_and_combined
+  kineme_type: single_letters
+Result: Simulated result for {'histogram_segment_size': 40, 'selected_levels': [4, 7, 10, 13], 'hist_value': 'count', 'histogram_type': 'letter_levels_and_combined', 'kineme_type': 'single_letters'}
+----------------------------------------
+
+Index: 176
+Config:
+  histogram_segment_size: 40
+  selected_levels: [4, 7, 10, 13]
+  hist_value: count
+  histogram_type: letter_levels_and_combined
+  kineme_type: singleton
+Result: Simulated result for {'histogram_segment_size': 40, 'selected_levels': [4, 7, 10, 13], 'hist_value': 'count', 'histogram_type': 'letter_levels_and_combined', 'kineme_type': 'singleton'}
+----------------------------------------
+
+Index: 177
+Config:
+  histogram_segment_size: 40
+  selected_levels: [4, 7, 10, 13]
+  hist_value: count
+  histogram_type: letter_levels_and_combined
+  kineme_type: one_nod
+Result: Simulated result for {'histogram_segment_size': 40, 'selected_levels': [4, 7, 10, 13], 'hist_value': 'count', 'histogram_type': 'letter_levels_and_combined', 'kineme_type': 'one_nod'}
+----------------------------------------
+
+Index: 178
+Config:
+  histogram_segment_size: 40
+  selected_levels: [4, 7, 10, 13]
+  hist_value: count
+  histogram_type: kineme_levels_and_combined
+  kineme_type: single_letters
+Result: Simulated result for {'histogram_segment_size': 40, 'selected_levels': [4, 7, 10, 13], 'hist_value': 'count', 'histogram_type': 'kineme_levels_and_combined', 'kineme_type': 'single_letters'}
+----------------------------------------
+
+Index: 179
+Config:
+  histogram_segment_size: 40
+  selected_levels: [4, 7, 10, 13]
+  hist_value: count
+  histogram_type: kineme_levels_and_combined
+  kineme_type: singleton
+Result: Simulated result for {'histogram_segment_size': 40, 'selected_levels': [4, 7, 10, 13], 'hist_value': 'count', 'histogram_type': 'kineme_levels_and_combined', 'kineme_type': 'singleton'}
+----------------------------------------
+
+Index: 180
+Config:
+  histogram_segment_size: 40
+  selected_levels: [4, 7, 10, 13]
+  hist_value: count
+  histogram_type: kineme_levels_and_combined
+  kineme_type: one_nod
+Result: Simulated result for {'histogram_segment_size': 40, 'selected_levels': [4, 7, 10, 13], 'hist_value': 'count', 'histogram_type': 'kineme_levels_and_combined', 'kineme_type': 'one_nod'}
+----------------------------------------
+
+Index: 181
+Config:
+  histogram_segment_size: 40
+  selected_levels: [4, 7, 10, 13]
+  hist_value: magnitude
+  histogram_type: letter_levels
+  kineme_type: single_letters
+Result: Simulated result for {'histogram_segment_size': 40, 'selected_levels': [4, 7, 10, 13], 'hist_value': 'magnitude', 'histogram_type': 'letter_levels', 'kineme_type': 'single_letters'}
+----------------------------------------
+
+Index: 182
+Config:
+  histogram_segment_size: 40
+  selected_levels: [4, 7, 10, 13]
+  hist_value: magnitude
+  histogram_type: letter_levels
+  kineme_type: singleton
+Result: Simulated result for {'histogram_segment_size': 40, 'selected_levels': [4, 7, 10, 13], 'hist_value': 'magnitude', 'histogram_type': 'letter_levels', 'kineme_type': 'singleton'}
+----------------------------------------
+
+Index: 183
+Config:
+  histogram_segment_size: 40
+  selected_levels: [4, 7, 10, 13]
+  hist_value: magnitude
+  histogram_type: letter_levels
+  kineme_type: one_nod
+Result: Simulated result for {'histogram_segment_size': 40, 'selected_levels': [4, 7, 10, 13], 'hist_value': 'magnitude', 'histogram_type': 'letter_levels', 'kineme_type': 'one_nod'}
+----------------------------------------
+
+Index: 184
+Config:
+  histogram_segment_size: 40
+  selected_levels: [4, 7, 10, 13]
+  hist_value: magnitude
+  histogram_type: letter_combined
+  kineme_type: single_letters
+Result: Simulated result for {'histogram_segment_size': 40, 'selected_levels': [4, 7, 10, 13], 'hist_value': 'magnitude', 'histogram_type': 'letter_combined', 'kineme_type': 'single_letters'}
+----------------------------------------
+
+Index: 185
+Config:
+  histogram_segment_size: 40
+  selected_levels: [4, 7, 10, 13]
+  hist_value: magnitude
+  histogram_type: letter_combined
+  kineme_type: singleton
+Result: Simulated result for {'histogram_segment_size': 40, 'selected_levels': [4, 7, 10, 13], 'hist_value': 'magnitude', 'histogram_type': 'letter_combined', 'kineme_type': 'singleton'}
+----------------------------------------
+
+Index: 186
+Config:
+  histogram_segment_size: 40
+  selected_levels: [4, 7, 10, 13]
+  hist_value: magnitude
+  histogram_type: letter_combined
+  kineme_type: one_nod
+Result: Simulated result for {'histogram_segment_size': 40, 'selected_levels': [4, 7, 10, 13], 'hist_value': 'magnitude', 'histogram_type': 'letter_combined', 'kineme_type': 'one_nod'}
+----------------------------------------
+
+Index: 187
+Config:
+  histogram_segment_size: 40
+  selected_levels: [4, 7, 10, 13]
+  hist_value: magnitude
+  histogram_type: letter_levels_and_combined
+  kineme_type: single_letters
+Result: Simulated result for {'histogram_segment_size': 40, 'selected_levels': [4, 7, 10, 13], 'hist_value': 'magnitude', 'histogram_type': 'letter_levels_and_combined', 'kineme_type': 'single_letters'}
+----------------------------------------
+
+Index: 188
+Config:
+  histogram_segment_size: 40
+  selected_levels: [4, 7, 10, 13]
+  hist_value: magnitude
+  histogram_type: letter_levels_and_combined
+  kineme_type: singleton
+Result: Simulated result for {'histogram_segment_size': 40, 'selected_levels': [4, 7, 10, 13], 'hist_value': 'magnitude', 'histogram_type': 'letter_levels_and_combined', 'kineme_type': 'singleton'}
+----------------------------------------
+
+Index: 189
+Config:
+  histogram_segment_size: 40
+  selected_levels: [4, 7, 10, 13]
+  hist_value: magnitude
+  histogram_type: letter_levels_and_combined
+  kineme_type: one_nod
+Result: Simulated result for {'histogram_segment_size': 40, 'selected_levels': [4, 7, 10, 13], 'hist_value': 'magnitude', 'histogram_type': 'letter_levels_and_combined', 'kineme_type': 'one_nod'}
+----------------------------------------
+
+Index: 190
+Config:
+  histogram_segment_size: 40
+  selected_levels: [4, 7, 10, 13]
+  hist_value: magnitude
+  histogram_type: kineme_levels_and_combined
+  kineme_type: single_letters
+Result: Simulated result for {'histogram_segment_size': 40, 'selected_levels': [4, 7, 10, 13], 'hist_value': 'magnitude', 'histogram_type': 'kineme_levels_and_combined', 'kineme_type': 'single_letters'}
+----------------------------------------
+
+Index: 191
+Config:
+  histogram_segment_size: 40
+  selected_levels: [4, 7, 10, 13]
+  hist_value: magnitude
+  histogram_type: kineme_levels_and_combined
+  kineme_type: singleton
+Result: Simulated result for {'histogram_segment_size': 40, 'selected_levels': [4, 7, 10, 13], 'hist_value': 'magnitude', 'histogram_type': 'kineme_levels_and_combined', 'kineme_type': 'singleton'}
+----------------------------------------
+
+Index: 192
+Config:
+  histogram_segment_size: 40
+  selected_levels: [4, 7, 10, 13]
+  hist_value: magnitude
+  histogram_type: kineme_levels_and_combined
+  kineme_type: one_nod
+Result: Simulated result for {'histogram_segment_size': 40, 'selected_levels': [4, 7, 10, 13], 'hist_value': 'magnitude', 'histogram_type': 'kineme_levels_and_combined', 'kineme_type': 'one_nod'}
+----------------------------------------
+
+Index: 193
+Config:
+  histogram_segment_size: -1
+  selected_levels: [1, 4, 7]
+  hist_value: count
+  histogram_type: letter_levels
+  kineme_type: single_letters
+Result: Simulated result for {'histogram_segment_size': -1, 'selected_levels': [1, 4, 7], 'hist_value': 'count', 'histogram_type': 'letter_levels', 'kineme_type': 'single_letters'}
+----------------------------------------
+
+Index: 194
+Config:
+  histogram_segment_size: -1
+  selected_levels: [1, 4, 7]
+  hist_value: count
+  histogram_type: letter_levels
+  kineme_type: singleton
+Result: Simulated result for {'histogram_segment_size': -1, 'selected_levels': [1, 4, 7], 'hist_value': 'count', 'histogram_type': 'letter_levels', 'kineme_type': 'singleton'}
+----------------------------------------
+
+Index: 195
+Config:
+  histogram_segment_size: -1
+  selected_levels: [1, 4, 7]
+  hist_value: count
+  histogram_type: letter_levels
+  kineme_type: one_nod
+Result: Simulated result for {'histogram_segment_size': -1, 'selected_levels': [1, 4, 7], 'hist_value': 'count', 'histogram_type': 'letter_levels', 'kineme_type': 'one_nod'}
+----------------------------------------
+
+Index: 196
+Config:
+  histogram_segment_size: -1
+  selected_levels: [1, 4, 7]
+  hist_value: count
+  histogram_type: letter_combined
+  kineme_type: single_letters
+Result: Simulated result for {'histogram_segment_size': -1, 'selected_levels': [1, 4, 7], 'hist_value': 'count', 'histogram_type': 'letter_combined', 'kineme_type': 'single_letters'}
+----------------------------------------
+
+Index: 197
+Config:
+  histogram_segment_size: -1
+  selected_levels: [1, 4, 7]
+  hist_value: count
+  histogram_type: letter_combined
+  kineme_type: singleton
+Result: Simulated result for {'histogram_segment_size': -1, 'selected_levels': [1, 4, 7], 'hist_value': 'count', 'histogram_type': 'letter_combined', 'kineme_type': 'singleton'}
+----------------------------------------
+
+Index: 198
+Config:
+  histogram_segment_size: -1
+  selected_levels: [1, 4, 7]
+  hist_value: count
+  histogram_type: letter_combined
+  kineme_type: one_nod
+Result: Simulated result for {'histogram_segment_size': -1, 'selected_levels': [1, 4, 7], 'hist_value': 'count', 'histogram_type': 'letter_combined', 'kineme_type': 'one_nod'}
+----------------------------------------
+
+Index: 199
+Config:
+  histogram_segment_size: -1
+  selected_levels: [1, 4, 7]
+  hist_value: count
+  histogram_type: letter_levels_and_combined
+  kineme_type: single_letters
+Result: Simulated result for {'histogram_segment_size': -1, 'selected_levels': [1, 4, 7], 'hist_value': 'count', 'histogram_type': 'letter_levels_and_combined', 'kineme_type': 'single_letters'}
+----------------------------------------
+
+Index: 200
+Config:
+  histogram_segment_size: -1
+  selected_levels: [1, 4, 7]
+  hist_value: count
+  histogram_type: letter_levels_and_combined
+  kineme_type: singleton
+Result: Simulated result for {'histogram_segment_size': -1, 'selected_levels': [1, 4, 7], 'hist_value': 'count', 'histogram_type': 'letter_levels_and_combined', 'kineme_type': 'singleton'}
+----------------------------------------
+
+Index: 201
+Config:
+  histogram_segment_size: -1
+  selected_levels: [1, 4, 7]
+  hist_value: count
+  histogram_type: letter_levels_and_combined
+  kineme_type: one_nod
+Result: Simulated result for {'histogram_segment_size': -1, 'selected_levels': [1, 4, 7], 'hist_value': 'count', 'histogram_type': 'letter_levels_and_combined', 'kineme_type': 'one_nod'}
+----------------------------------------
+
+Index: 202
+Config:
+  histogram_segment_size: -1
+  selected_levels: [1, 4, 7]
+  hist_value: count
+  histogram_type: kineme_levels_and_combined
+  kineme_type: single_letters
+Result: Simulated result for {'histogram_segment_size': -1, 'selected_levels': [1, 4, 7], 'hist_value': 'count', 'histogram_type': 'kineme_levels_and_combined', 'kineme_type': 'single_letters'}
+----------------------------------------
+
+Index: 203
+Config:
+  histogram_segment_size: -1
+  selected_levels: [1, 4, 7]
+  hist_value: count
+  histogram_type: kineme_levels_and_combined
+  kineme_type: singleton
+Result: Simulated result for {'histogram_segment_size': -1, 'selected_levels': [1, 4, 7], 'hist_value': 'count', 'histogram_type': 'kineme_levels_and_combined', 'kineme_type': 'singleton'}
+----------------------------------------
+
+Index: 204
+Config:
+  histogram_segment_size: -1
+  selected_levels: [1, 4, 7]
+  hist_value: count
+  histogram_type: kineme_levels_and_combined
+  kineme_type: one_nod
+Result: Simulated result for {'histogram_segment_size': -1, 'selected_levels': [1, 4, 7], 'hist_value': 'count', 'histogram_type': 'kineme_levels_and_combined', 'kineme_type': 'one_nod'}
+----------------------------------------
+
+Index: 205
+Config:
+  histogram_segment_size: -1
+  selected_levels: [1, 4, 7]
+  hist_value: magnitude
+  histogram_type: letter_levels
+  kineme_type: single_letters
+Result: Simulated result for {'histogram_segment_size': -1, 'selected_levels': [1, 4, 7], 'hist_value': 'magnitude', 'histogram_type': 'letter_levels', 'kineme_type': 'single_letters'}
+----------------------------------------
+
+Index: 206
+Config:
+  histogram_segment_size: -1
+  selected_levels: [1, 4, 7]
+  hist_value: magnitude
+  histogram_type: letter_levels
+  kineme_type: singleton
+Result: Simulated result for {'histogram_segment_size': -1, 'selected_levels': [1, 4, 7], 'hist_value': 'magnitude', 'histogram_type': 'letter_levels', 'kineme_type': 'singleton'}
+----------------------------------------
+
+Index: 207
+Config:
+  histogram_segment_size: -1
+  selected_levels: [1, 4, 7]
+  hist_value: magnitude
+  histogram_type: letter_levels
+  kineme_type: one_nod
+Result: Simulated result for {'histogram_segment_size': -1, 'selected_levels': [1, 4, 7], 'hist_value': 'magnitude', 'histogram_type': 'letter_levels', 'kineme_type': 'one_nod'}
+----------------------------------------
+
+Index: 208
+Config:
+  histogram_segment_size: -1
+  selected_levels: [1, 4, 7]
+  hist_value: magnitude
+  histogram_type: letter_combined
+  kineme_type: single_letters
+Result: Simulated result for {'histogram_segment_size': -1, 'selected_levels': [1, 4, 7], 'hist_value': 'magnitude', 'histogram_type': 'letter_combined', 'kineme_type': 'single_letters'}
+----------------------------------------
+
+Index: 209
+Config:
+  histogram_segment_size: -1
+  selected_levels: [1, 4, 7]
+  hist_value: magnitude
+  histogram_type: letter_combined
+  kineme_type: singleton
+Result: Simulated result for {'histogram_segment_size': -1, 'selected_levels': [1, 4, 7], 'hist_value': 'magnitude', 'histogram_type': 'letter_combined', 'kineme_type': 'singleton'}
+----------------------------------------
+
+Index: 210
+Config:
+  histogram_segment_size: -1
+  selected_levels: [1, 4, 7]
+  hist_value: magnitude
+  histogram_type: letter_combined
+  kineme_type: one_nod
+Result: Simulated result for {'histogram_segment_size': -1, 'selected_levels': [1, 4, 7], 'hist_value': 'magnitude', 'histogram_type': 'letter_combined', 'kineme_type': 'one_nod'}
+----------------------------------------
+
+Index: 211
+Config:
+  histogram_segment_size: -1
+  selected_levels: [1, 4, 7]
+  hist_value: magnitude
+  histogram_type: letter_levels_and_combined
+  kineme_type: single_letters
+Result: Simulated result for {'histogram_segment_size': -1, 'selected_levels': [1, 4, 7], 'hist_value': 'magnitude', 'histogram_type': 'letter_levels_and_combined', 'kineme_type': 'single_letters'}
+----------------------------------------
+
+Index: 212
+Config:
+  histogram_segment_size: -1
+  selected_levels: [1, 4, 7]
+  hist_value: magnitude
+  histogram_type: letter_levels_and_combined
+  kineme_type: singleton
+Result: Simulated result for {'histogram_segment_size': -1, 'selected_levels': [1, 4, 7], 'hist_value': 'magnitude', 'histogram_type': 'letter_levels_and_combined', 'kineme_type': 'singleton'}
+----------------------------------------
+
+Index: 213
+Config:
+  histogram_segment_size: -1
+  selected_levels: [1, 4, 7]
+  hist_value: magnitude
+  histogram_type: letter_levels_and_combined
+  kineme_type: one_nod
+Result: Simulated result for {'histogram_segment_size': -1, 'selected_levels': [1, 4, 7], 'hist_value': 'magnitude', 'histogram_type': 'letter_levels_and_combined', 'kineme_type': 'one_nod'}
+----------------------------------------
+
+Index: 214
+Config:
+  histogram_segment_size: -1
+  selected_levels: [1, 4, 7]
+  hist_value: magnitude
+  histogram_type: kineme_levels_and_combined
+  kineme_type: single_letters
+Result: Simulated result for {'histogram_segment_size': -1, 'selected_levels': [1, 4, 7], 'hist_value': 'magnitude', 'histogram_type': 'kineme_levels_and_combined', 'kineme_type': 'single_letters'}
+----------------------------------------
+
+Index: 215
+Config:
+  histogram_segment_size: -1
+  selected_levels: [1, 4, 7]
+  hist_value: magnitude
+  histogram_type: kineme_levels_and_combined
+  kineme_type: singleton
+Result: Simulated result for {'histogram_segment_size': -1, 'selected_levels': [1, 4, 7], 'hist_value': 'magnitude', 'histogram_type': 'kineme_levels_and_combined', 'kineme_type': 'singleton'}
+----------------------------------------
+
+Index: 216
+Config:
+  histogram_segment_size: -1
+  selected_levels: [1, 4, 7]
+  hist_value: magnitude
+  histogram_type: kineme_levels_and_combined
+  kineme_type: one_nod
+Result: Simulated result for {'histogram_segment_size': -1, 'selected_levels': [1, 4, 7], 'hist_value': 'magnitude', 'histogram_type': 'kineme_levels_and_combined', 'kineme_type': 'one_nod'}
+----------------------------------------
+
+Index: 217
+Config:
+  histogram_segment_size: -1
+  selected_levels: [1, 4, 7, 10]
+  hist_value: count
+  histogram_type: letter_levels
+  kineme_type: single_letters
+Result: Simulated result for {'histogram_segment_size': -1, 'selected_levels': [1, 4, 7, 10], 'hist_value': 'count', 'histogram_type': 'letter_levels', 'kineme_type': 'single_letters'}
+----------------------------------------
+
+Index: 218
+Config:
+  histogram_segment_size: -1
+  selected_levels: [1, 4, 7, 10]
+  hist_value: count
+  histogram_type: letter_levels
+  kineme_type: singleton
+Result: Simulated result for {'histogram_segment_size': -1, 'selected_levels': [1, 4, 7, 10], 'hist_value': 'count', 'histogram_type': 'letter_levels', 'kineme_type': 'singleton'}
+----------------------------------------
+
+Index: 219
+Config:
+  histogram_segment_size: -1
+  selected_levels: [1, 4, 7, 10]
+  hist_value: count
+  histogram_type: letter_levels
+  kineme_type: one_nod
+Result: Simulated result for {'histogram_segment_size': -1, 'selected_levels': [1, 4, 7, 10], 'hist_value': 'count', 'histogram_type': 'letter_levels', 'kineme_type': 'one_nod'}
+----------------------------------------
+
+Index: 220
+Config:
+  histogram_segment_size: -1
+  selected_levels: [1, 4, 7, 10]
+  hist_value: count
+  histogram_type: letter_combined
+  kineme_type: single_letters
+Result: Simulated result for {'histogram_segment_size': -1, 'selected_levels': [1, 4, 7, 10], 'hist_value': 'count', 'histogram_type': 'letter_combined', 'kineme_type': 'single_letters'}
+----------------------------------------
+
+Index: 221
+Config:
+  histogram_segment_size: -1
+  selected_levels: [1, 4, 7, 10]
+  hist_value: count
+  histogram_type: letter_combined
+  kineme_type: singleton
+Result: Simulated result for {'histogram_segment_size': -1, 'selected_levels': [1, 4, 7, 10], 'hist_value': 'count', 'histogram_type': 'letter_combined', 'kineme_type': 'singleton'}
+----------------------------------------
+
+Index: 222
+Config:
+  histogram_segment_size: -1
+  selected_levels: [1, 4, 7, 10]
+  hist_value: count
+  histogram_type: letter_combined
+  kineme_type: one_nod
+Result: Simulated result for {'histogram_segment_size': -1, 'selected_levels': [1, 4, 7, 10], 'hist_value': 'count', 'histogram_type': 'letter_combined', 'kineme_type': 'one_nod'}
+----------------------------------------
+
+Index: 223
+Config:
+  histogram_segment_size: -1
+  selected_levels: [1, 4, 7, 10]
+  hist_value: count
+  histogram_type: letter_levels_and_combined
+  kineme_type: single_letters
+Result: Simulated result for {'histogram_segment_size': -1, 'selected_levels': [1, 4, 7, 10], 'hist_value': 'count', 'histogram_type': 'letter_levels_and_combined', 'kineme_type': 'single_letters'}
+----------------------------------------
+
+Index: 224
+Config:
+  histogram_segment_size: -1
+  selected_levels: [1, 4, 7, 10]
+  hist_value: count
+  histogram_type: letter_levels_and_combined
+  kineme_type: singleton
+Result: Simulated result for {'histogram_segment_size': -1, 'selected_levels': [1, 4, 7, 10], 'hist_value': 'count', 'histogram_type': 'letter_levels_and_combined', 'kineme_type': 'singleton'}
+----------------------------------------
+
+Index: 225
+Config:
+  histogram_segment_size: -1
+  selected_levels: [1, 4, 7, 10]
+  hist_value: count
+  histogram_type: letter_levels_and_combined
+  kineme_type: one_nod
+Result: Simulated result for {'histogram_segment_size': -1, 'selected_levels': [1, 4, 7, 10], 'hist_value': 'count', 'histogram_type': 'letter_levels_and_combined', 'kineme_type': 'one_nod'}
+----------------------------------------
+
+Index: 226
+Config:
+  histogram_segment_size: -1
+  selected_levels: [1, 4, 7, 10]
+  hist_value: count
+  histogram_type: kineme_levels_and_combined
+  kineme_type: single_letters
+Result: Simulated result for {'histogram_segment_size': -1, 'selected_levels': [1, 4, 7, 10], 'hist_value': 'count', 'histogram_type': 'kineme_levels_and_combined', 'kineme_type': 'single_letters'}
+----------------------------------------
+
+Index: 227
+Config:
+  histogram_segment_size: -1
+  selected_levels: [1, 4, 7, 10]
+  hist_value: count
+  histogram_type: kineme_levels_and_combined
+  kineme_type: singleton
+Result: Simulated result for {'histogram_segment_size': -1, 'selected_levels': [1, 4, 7, 10], 'hist_value': 'count', 'histogram_type': 'kineme_levels_and_combined', 'kineme_type': 'singleton'}
+----------------------------------------
+
+Index: 228
+Config:
+  histogram_segment_size: -1
+  selected_levels: [1, 4, 7, 10]
+  hist_value: count
+  histogram_type: kineme_levels_and_combined
+  kineme_type: one_nod
+Result: Simulated result for {'histogram_segment_size': -1, 'selected_levels': [1, 4, 7, 10], 'hist_value': 'count', 'histogram_type': 'kineme_levels_and_combined', 'kineme_type': 'one_nod'}
+----------------------------------------
+
+Index: 229
+Config:
+  histogram_segment_size: -1
+  selected_levels: [1, 4, 7, 10]
+  hist_value: magnitude
+  histogram_type: letter_levels
+  kineme_type: single_letters
+Result: Simulated result for {'histogram_segment_size': -1, 'selected_levels': [1, 4, 7, 10], 'hist_value': 'magnitude', 'histogram_type': 'letter_levels', 'kineme_type': 'single_letters'}
+----------------------------------------
+
+Index: 230
+Config:
+  histogram_segment_size: -1
+  selected_levels: [1, 4, 7, 10]
+  hist_value: magnitude
+  histogram_type: letter_levels
+  kineme_type: singleton
+Result: Simulated result for {'histogram_segment_size': -1, 'selected_levels': [1, 4, 7, 10], 'hist_value': 'magnitude', 'histogram_type': 'letter_levels', 'kineme_type': 'singleton'}
+----------------------------------------
+
+Index: 231
+Config:
+  histogram_segment_size: -1
+  selected_levels: [1, 4, 7, 10]
+  hist_value: magnitude
+  histogram_type: letter_levels
+  kineme_type: one_nod
+Result: Simulated result for {'histogram_segment_size': -1, 'selected_levels': [1, 4, 7, 10], 'hist_value': 'magnitude', 'histogram_type': 'letter_levels', 'kineme_type': 'one_nod'}
+----------------------------------------
+
+Index: 232
+Config:
+  histogram_segment_size: -1
+  selected_levels: [1, 4, 7, 10]
+  hist_value: magnitude
+  histogram_type: letter_combined
+  kineme_type: single_letters
+Result: Simulated result for {'histogram_segment_size': -1, 'selected_levels': [1, 4, 7, 10], 'hist_value': 'magnitude', 'histogram_type': 'letter_combined', 'kineme_type': 'single_letters'}
+----------------------------------------
+
+Index: 233
+Config:
+  histogram_segment_size: -1
+  selected_levels: [1, 4, 7, 10]
+  hist_value: magnitude
+  histogram_type: letter_combined
+  kineme_type: singleton
+Result: Simulated result for {'histogram_segment_size': -1, 'selected_levels': [1, 4, 7, 10], 'hist_value': 'magnitude', 'histogram_type': 'letter_combined', 'kineme_type': 'singleton'}
+----------------------------------------
+
+Index: 234
+Config:
+  histogram_segment_size: -1
+  selected_levels: [1, 4, 7, 10]
+  hist_value: magnitude
+  histogram_type: letter_combined
+  kineme_type: one_nod
+Result: Simulated result for {'histogram_segment_size': -1, 'selected_levels': [1, 4, 7, 10], 'hist_value': 'magnitude', 'histogram_type': 'letter_combined', 'kineme_type': 'one_nod'}
+----------------------------------------
+
+Index: 235
+Config:
+  histogram_segment_size: -1
+  selected_levels: [1, 4, 7, 10]
+  hist_value: magnitude
+  histogram_type: letter_levels_and_combined
+  kineme_type: single_letters
+Result: Simulated result for {'histogram_segment_size': -1, 'selected_levels': [1, 4, 7, 10], 'hist_value': 'magnitude', 'histogram_type': 'letter_levels_and_combined', 'kineme_type': 'single_letters'}
+----------------------------------------
+
+Index: 236
+Config:
+  histogram_segment_size: -1
+  selected_levels: [1, 4, 7, 10]
+  hist_value: magnitude
+  histogram_type: letter_levels_and_combined
+  kineme_type: singleton
+Result: Simulated result for {'histogram_segment_size': -1, 'selected_levels': [1, 4, 7, 10], 'hist_value': 'magnitude', 'histogram_type': 'letter_levels_and_combined', 'kineme_type': 'singleton'}
+----------------------------------------
+
+Index: 237
+Config:
+  histogram_segment_size: -1
+  selected_levels: [1, 4, 7, 10]
+  hist_value: magnitude
+  histogram_type: letter_levels_and_combined
+  kineme_type: one_nod
+Result: Simulated result for {'histogram_segment_size': -1, 'selected_levels': [1, 4, 7, 10], 'hist_value': 'magnitude', 'histogram_type': 'letter_levels_and_combined', 'kineme_type': 'one_nod'}
+----------------------------------------
+
+Index: 238
+Config:
+  histogram_segment_size: -1
+  selected_levels: [1, 4, 7, 10]
+  hist_value: magnitude
+  histogram_type: kineme_levels_and_combined
+  kineme_type: single_letters
+Result: Simulated result for {'histogram_segment_size': -1, 'selected_levels': [1, 4, 7, 10], 'hist_value': 'magnitude', 'histogram_type': 'kineme_levels_and_combined', 'kineme_type': 'single_letters'}
+----------------------------------------
+
+Index: 239
+Config:
+  histogram_segment_size: -1
+  selected_levels: [1, 4, 7, 10]
+  hist_value: magnitude
+  histogram_type: kineme_levels_and_combined
+  kineme_type: singleton
+Result: Simulated result for {'histogram_segment_size': -1, 'selected_levels': [1, 4, 7, 10], 'hist_value': 'magnitude', 'histogram_type': 'kineme_levels_and_combined', 'kineme_type': 'singleton'}
+----------------------------------------
+
+Index: 240
+Config:
+  histogram_segment_size: -1
+  selected_levels: [1, 4, 7, 10]
+  hist_value: magnitude
+  histogram_type: kineme_levels_and_combined
+  kineme_type: one_nod
+Result: Simulated result for {'histogram_segment_size': -1, 'selected_levels': [1, 4, 7, 10], 'hist_value': 'magnitude', 'histogram_type': 'kineme_levels_and_combined', 'kineme_type': 'one_nod'}
+----------------------------------------
+
+Index: 241
+Config:
+  histogram_segment_size: -1
+  selected_levels: [1, 4, 7, 10, 13]
+  hist_value: count
+  histogram_type: letter_levels
+  kineme_type: single_letters
+Result: Simulated result for {'histogram_segment_size': -1, 'selected_levels': [1, 4, 7, 10, 13], 'hist_value': 'count', 'histogram_type': 'letter_levels', 'kineme_type': 'single_letters'}
+----------------------------------------
+
+Index: 242
+Config:
+  histogram_segment_size: -1
+  selected_levels: [1, 4, 7, 10, 13]
+  hist_value: count
+  histogram_type: letter_levels
+  kineme_type: singleton
+Result: Simulated result for {'histogram_segment_size': -1, 'selected_levels': [1, 4, 7, 10, 13], 'hist_value': 'count', 'histogram_type': 'letter_levels', 'kineme_type': 'singleton'}
+----------------------------------------
+
+Index: 243
+Config:
+  histogram_segment_size: -1
+  selected_levels: [1, 4, 7, 10, 13]
+  hist_value: count
+  histogram_type: letter_levels
+  kineme_type: one_nod
+Result: Simulated result for {'histogram_segment_size': -1, 'selected_levels': [1, 4, 7, 10, 13], 'hist_value': 'count', 'histogram_type': 'letter_levels', 'kineme_type': 'one_nod'}
+----------------------------------------
+
+Index: 244
+Config:
+  histogram_segment_size: -1
+  selected_levels: [1, 4, 7, 10, 13]
+  hist_value: count
+  histogram_type: letter_combined
+  kineme_type: single_letters
+Result: Simulated result for {'histogram_segment_size': -1, 'selected_levels': [1, 4, 7, 10, 13], 'hist_value': 'count', 'histogram_type': 'letter_combined', 'kineme_type': 'single_letters'}
+----------------------------------------
+
+Index: 245
+Config:
+  histogram_segment_size: -1
+  selected_levels: [1, 4, 7, 10, 13]
+  hist_value: count
+  histogram_type: letter_combined
+  kineme_type: singleton
+Result: Simulated result for {'histogram_segment_size': -1, 'selected_levels': [1, 4, 7, 10, 13], 'hist_value': 'count', 'histogram_type': 'letter_combined', 'kineme_type': 'singleton'}
+----------------------------------------
+
+Index: 246
+Config:
+  histogram_segment_size: -1
+  selected_levels: [1, 4, 7, 10, 13]
+  hist_value: count
+  histogram_type: letter_combined
+  kineme_type: one_nod
+Result: Simulated result for {'histogram_segment_size': -1, 'selected_levels': [1, 4, 7, 10, 13], 'hist_value': 'count', 'histogram_type': 'letter_combined', 'kineme_type': 'one_nod'}
+----------------------------------------
+
+Index: 247
+Config:
+  histogram_segment_size: -1
+  selected_levels: [1, 4, 7, 10, 13]
+  hist_value: count
+  histogram_type: letter_levels_and_combined
+  kineme_type: single_letters
+Result: Simulated result for {'histogram_segment_size': -1, 'selected_levels': [1, 4, 7, 10, 13], 'hist_value': 'count', 'histogram_type': 'letter_levels_and_combined', 'kineme_type': 'single_letters'}
+----------------------------------------
+
+Index: 248
+Config:
+  histogram_segment_size: -1
+  selected_levels: [1, 4, 7, 10, 13]
+  hist_value: count
+  histogram_type: letter_levels_and_combined
+  kineme_type: singleton
+Result: Simulated result for {'histogram_segment_size': -1, 'selected_levels': [1, 4, 7, 10, 13], 'hist_value': 'count', 'histogram_type': 'letter_levels_and_combined', 'kineme_type': 'singleton'}
+----------------------------------------
+
+Index: 249
+Config:
+  histogram_segment_size: -1
+  selected_levels: [1, 4, 7, 10, 13]
+  hist_value: count
+  histogram_type: letter_levels_and_combined
+  kineme_type: one_nod
+Result: Simulated result for {'histogram_segment_size': -1, 'selected_levels': [1, 4, 7, 10, 13], 'hist_value': 'count', 'histogram_type': 'letter_levels_and_combined', 'kineme_type': 'one_nod'}
+----------------------------------------
+
+Index: 250
+Config:
+  histogram_segment_size: -1
+  selected_levels: [1, 4, 7, 10, 13]
+  hist_value: count
+  histogram_type: kineme_levels_and_combined
+  kineme_type: single_letters
+Result: Simulated result for {'histogram_segment_size': -1, 'selected_levels': [1, 4, 7, 10, 13], 'hist_value': 'count', 'histogram_type': 'kineme_levels_and_combined', 'kineme_type': 'single_letters'}
+----------------------------------------
+
+Index: 251
+Config:
+  histogram_segment_size: -1
+  selected_levels: [1, 4, 7, 10, 13]
+  hist_value: count
+  histogram_type: kineme_levels_and_combined
+  kineme_type: singleton
+Result: Simulated result for {'histogram_segment_size': -1, 'selected_levels': [1, 4, 7, 10, 13], 'hist_value': 'count', 'histogram_type': 'kineme_levels_and_combined', 'kineme_type': 'singleton'}
+----------------------------------------
+
+Index: 252
+Config:
+  histogram_segment_size: -1
+  selected_levels: [1, 4, 7, 10, 13]
+  hist_value: count
+  histogram_type: kineme_levels_and_combined
+  kineme_type: one_nod
+Result: Simulated result for {'histogram_segment_size': -1, 'selected_levels': [1, 4, 7, 10, 13], 'hist_value': 'count', 'histogram_type': 'kineme_levels_and_combined', 'kineme_type': 'one_nod'}
+----------------------------------------
+
+Index: 253
+Config:
+  histogram_segment_size: -1
+  selected_levels: [1, 4, 7, 10, 13]
+  hist_value: magnitude
+  histogram_type: letter_levels
+  kineme_type: single_letters
+Result: Simulated result for {'histogram_segment_size': -1, 'selected_levels': [1, 4, 7, 10, 13], 'hist_value': 'magnitude', 'histogram_type': 'letter_levels', 'kineme_type': 'single_letters'}
+----------------------------------------
+
+Index: 254
+Config:
+  histogram_segment_size: -1
+  selected_levels: [1, 4, 7, 10, 13]
+  hist_value: magnitude
+  histogram_type: letter_levels
+  kineme_type: singleton
+Result: Simulated result for {'histogram_segment_size': -1, 'selected_levels': [1, 4, 7, 10, 13], 'hist_value': 'magnitude', 'histogram_type': 'letter_levels', 'kineme_type': 'singleton'}
+----------------------------------------
+
+Index: 255
+Config:
+  histogram_segment_size: -1
+  selected_levels: [1, 4, 7, 10, 13]
+  hist_value: magnitude
+  histogram_type: letter_levels
+  kineme_type: one_nod
+Result: Simulated result for {'histogram_segment_size': -1, 'selected_levels': [1, 4, 7, 10, 13], 'hist_value': 'magnitude', 'histogram_type': 'letter_levels', 'kineme_type': 'one_nod'}
+----------------------------------------
+
+Index: 256
+Config:
+  histogram_segment_size: -1
+  selected_levels: [1, 4, 7, 10, 13]
+  hist_value: magnitude
+  histogram_type: letter_combined
+  kineme_type: single_letters
+Result: Simulated result for {'histogram_segment_size': -1, 'selected_levels': [1, 4, 7, 10, 13], 'hist_value': 'magnitude', 'histogram_type': 'letter_combined', 'kineme_type': 'single_letters'}
+----------------------------------------
+
+Index: 257
+Config:
+  histogram_segment_size: -1
+  selected_levels: [1, 4, 7, 10, 13]
+  hist_value: magnitude
+  histogram_type: letter_combined
+  kineme_type: singleton
+Result: Simulated result for {'histogram_segment_size': -1, 'selected_levels': [1, 4, 7, 10, 13], 'hist_value': 'magnitude', 'histogram_type': 'letter_combined', 'kineme_type': 'singleton'}
+----------------------------------------
+
+Index: 258
+Config:
+  histogram_segment_size: -1
+  selected_levels: [1, 4, 7, 10, 13]
+  hist_value: magnitude
+  histogram_type: letter_combined
+  kineme_type: one_nod
+Result: Simulated result for {'histogram_segment_size': -1, 'selected_levels': [1, 4, 7, 10, 13], 'hist_value': 'magnitude', 'histogram_type': 'letter_combined', 'kineme_type': 'one_nod'}
+----------------------------------------
+
+Index: 259
+Config:
+  histogram_segment_size: -1
+  selected_levels: [1, 4, 7, 10, 13]
+  hist_value: magnitude
+  histogram_type: letter_levels_and_combined
+  kineme_type: single_letters
+Result: Simulated result for {'histogram_segment_size': -1, 'selected_levels': [1, 4, 7, 10, 13], 'hist_value': 'magnitude', 'histogram_type': 'letter_levels_and_combined', 'kineme_type': 'single_letters'}
+----------------------------------------
+
+Index: 260
+Config:
+  histogram_segment_size: -1
+  selected_levels: [1, 4, 7, 10, 13]
+  hist_value: magnitude
+  histogram_type: letter_levels_and_combined
+  kineme_type: singleton
+Result: Simulated result for {'histogram_segment_size': -1, 'selected_levels': [1, 4, 7, 10, 13], 'hist_value': 'magnitude', 'histogram_type': 'letter_levels_and_combined', 'kineme_type': 'singleton'}
+----------------------------------------
+
+Index: 261
+Config:
+  histogram_segment_size: -1
+  selected_levels: [1, 4, 7, 10, 13]
+  hist_value: magnitude
+  histogram_type: letter_levels_and_combined
+  kineme_type: one_nod
+Result: Simulated result for {'histogram_segment_size': -1, 'selected_levels': [1, 4, 7, 10, 13], 'hist_value': 'magnitude', 'histogram_type': 'letter_levels_and_combined', 'kineme_type': 'one_nod'}
+----------------------------------------
+
+Index: 262
+Config:
+  histogram_segment_size: -1
+  selected_levels: [1, 4, 7, 10, 13]
+  hist_value: magnitude
+  histogram_type: kineme_levels_and_combined
+  kineme_type: single_letters
+Result: Simulated result for {'histogram_segment_size': -1, 'selected_levels': [1, 4, 7, 10, 13], 'hist_value': 'magnitude', 'histogram_type': 'kineme_levels_and_combined', 'kineme_type': 'single_letters'}
+----------------------------------------
+
+Index: 263
+Config:
+  histogram_segment_size: -1
+  selected_levels: [1, 4, 7, 10, 13]
+  hist_value: magnitude
+  histogram_type: kineme_levels_and_combined
+  kineme_type: singleton
+Result: Simulated result for {'histogram_segment_size': -1, 'selected_levels': [1, 4, 7, 10, 13], 'hist_value': 'magnitude', 'histogram_type': 'kineme_levels_and_combined', 'kineme_type': 'singleton'}
+----------------------------------------
+
+Index: 264
+Config:
+  histogram_segment_size: -1
+  selected_levels: [1, 4, 7, 10, 13]
+  hist_value: magnitude
+  histogram_type: kineme_levels_and_combined
+  kineme_type: one_nod
+Result: Simulated result for {'histogram_segment_size': -1, 'selected_levels': [1, 4, 7, 10, 13], 'hist_value': 'magnitude', 'histogram_type': 'kineme_levels_and_combined', 'kineme_type': 'one_nod'}
+----------------------------------------
+
+Index: 265
+Config:
+  histogram_segment_size: -1
+  selected_levels: [4, 7, 10, 13]
+  hist_value: count
+  histogram_type: letter_levels
+  kineme_type: single_letters
+Result: Simulated result for {'histogram_segment_size': -1, 'selected_levels': [4, 7, 10, 13], 'hist_value': 'count', 'histogram_type': 'letter_levels', 'kineme_type': 'single_letters'}
+----------------------------------------
+
+Index: 266
+Config:
+  histogram_segment_size: -1
+  selected_levels: [4, 7, 10, 13]
+  hist_value: count
+  histogram_type: letter_levels
+  kineme_type: singleton
+Result: Simulated result for {'histogram_segment_size': -1, 'selected_levels': [4, 7, 10, 13], 'hist_value': 'count', 'histogram_type': 'letter_levels', 'kineme_type': 'singleton'}
+----------------------------------------
+
+Index: 267
+Config:
+  histogram_segment_size: -1
+  selected_levels: [4, 7, 10, 13]
+  hist_value: count
+  histogram_type: letter_levels
+  kineme_type: one_nod
+Result: Simulated result for {'histogram_segment_size': -1, 'selected_levels': [4, 7, 10, 13], 'hist_value': 'count', 'histogram_type': 'letter_levels', 'kineme_type': 'one_nod'}
+----------------------------------------
+
+Index: 268
+Config:
+  histogram_segment_size: -1
+  selected_levels: [4, 7, 10, 13]
+  hist_value: count
+  histogram_type: letter_combined
+  kineme_type: single_letters
+Result: Simulated result for {'histogram_segment_size': -1, 'selected_levels': [4, 7, 10, 13], 'hist_value': 'count', 'histogram_type': 'letter_combined', 'kineme_type': 'single_letters'}
+----------------------------------------
+
+Index: 269
+Config:
+  histogram_segment_size: -1
+  selected_levels: [4, 7, 10, 13]
+  hist_value: count
+  histogram_type: letter_combined
+  kineme_type: singleton
+Result: Simulated result for {'histogram_segment_size': -1, 'selected_levels': [4, 7, 10, 13], 'hist_value': 'count', 'histogram_type': 'letter_combined', 'kineme_type': 'singleton'}
+----------------------------------------
+
+Index: 270
+Config:
+  histogram_segment_size: -1
+  selected_levels: [4, 7, 10, 13]
+  hist_value: count
+  histogram_type: letter_combined
+  kineme_type: one_nod
+Result: Simulated result for {'histogram_segment_size': -1, 'selected_levels': [4, 7, 10, 13], 'hist_value': 'count', 'histogram_type': 'letter_combined', 'kineme_type': 'one_nod'}
+----------------------------------------
+
+Index: 271
+Config:
+  histogram_segment_size: -1
+  selected_levels: [4, 7, 10, 13]
+  hist_value: count
+  histogram_type: letter_levels_and_combined
+  kineme_type: single_letters
+Result: Simulated result for {'histogram_segment_size': -1, 'selected_levels': [4, 7, 10, 13], 'hist_value': 'count', 'histogram_type': 'letter_levels_and_combined', 'kineme_type': 'single_letters'}
+----------------------------------------
+
+Index: 272
+Config:
+  histogram_segment_size: -1
+  selected_levels: [4, 7, 10, 13]
+  hist_value: count
+  histogram_type: letter_levels_and_combined
+  kineme_type: singleton
+Result: Simulated result for {'histogram_segment_size': -1, 'selected_levels': [4, 7, 10, 13], 'hist_value': 'count', 'histogram_type': 'letter_levels_and_combined', 'kineme_type': 'singleton'}
+----------------------------------------
+
+Index: 273
+Config:
+  histogram_segment_size: -1
+  selected_levels: [4, 7, 10, 13]
+  hist_value: count
+  histogram_type: letter_levels_and_combined
+  kineme_type: one_nod
+Result: Simulated result for {'histogram_segment_size': -1, 'selected_levels': [4, 7, 10, 13], 'hist_value': 'count', 'histogram_type': 'letter_levels_and_combined', 'kineme_type': 'one_nod'}
+----------------------------------------
+
+Index: 274
+Config:
+  histogram_segment_size: -1
+  selected_levels: [4, 7, 10, 13]
+  hist_value: count
+  histogram_type: kineme_levels_and_combined
+  kineme_type: single_letters
+Result: Simulated result for {'histogram_segment_size': -1, 'selected_levels': [4, 7, 10, 13], 'hist_value': 'count', 'histogram_type': 'kineme_levels_and_combined', 'kineme_type': 'single_letters'}
+----------------------------------------
+
+Index: 275
+Config:
+  histogram_segment_size: -1
+  selected_levels: [4, 7, 10, 13]
+  hist_value: count
+  histogram_type: kineme_levels_and_combined
+  kineme_type: singleton
+Result: Simulated result for {'histogram_segment_size': -1, 'selected_levels': [4, 7, 10, 13], 'hist_value': 'count', 'histogram_type': 'kineme_levels_and_combined', 'kineme_type': 'singleton'}
+----------------------------------------
+
+Index: 276
+Config:
+  histogram_segment_size: -1
+  selected_levels: [4, 7, 10, 13]
+  hist_value: count
+  histogram_type: kineme_levels_and_combined
+  kineme_type: one_nod
+Result: Simulated result for {'histogram_segment_size': -1, 'selected_levels': [4, 7, 10, 13], 'hist_value': 'count', 'histogram_type': 'kineme_levels_and_combined', 'kineme_type': 'one_nod'}
+----------------------------------------
+
+Index: 277
+Config:
+  histogram_segment_size: -1
+  selected_levels: [4, 7, 10, 13]
+  hist_value: magnitude
+  histogram_type: letter_levels
+  kineme_type: single_letters
+Result: Simulated result for {'histogram_segment_size': -1, 'selected_levels': [4, 7, 10, 13], 'hist_value': 'magnitude', 'histogram_type': 'letter_levels', 'kineme_type': 'single_letters'}
+----------------------------------------
+
+Index: 278
+Config:
+  histogram_segment_size: -1
+  selected_levels: [4, 7, 10, 13]
+  hist_value: magnitude
+  histogram_type: letter_levels
+  kineme_type: singleton
+Result: Simulated result for {'histogram_segment_size': -1, 'selected_levels': [4, 7, 10, 13], 'hist_value': 'magnitude', 'histogram_type': 'letter_levels', 'kineme_type': 'singleton'}
+----------------------------------------
+
+Index: 279
+Config:
+  histogram_segment_size: -1
+  selected_levels: [4, 7, 10, 13]
+  hist_value: magnitude
+  histogram_type: letter_levels
+  kineme_type: one_nod
+Result: Simulated result for {'histogram_segment_size': -1, 'selected_levels': [4, 7, 10, 13], 'hist_value': 'magnitude', 'histogram_type': 'letter_levels', 'kineme_type': 'one_nod'}
+----------------------------------------
+
+Index: 280
+Config:
+  histogram_segment_size: -1
+  selected_levels: [4, 7, 10, 13]
+  hist_value: magnitude
+  histogram_type: letter_combined
+  kineme_type: single_letters
+Result: Simulated result for {'histogram_segment_size': -1, 'selected_levels': [4, 7, 10, 13], 'hist_value': 'magnitude', 'histogram_type': 'letter_combined', 'kineme_type': 'single_letters'}
+----------------------------------------
+
+Index: 281
+Config:
+  histogram_segment_size: -1
+  selected_levels: [4, 7, 10, 13]
+  hist_value: magnitude
+  histogram_type: letter_combined
+  kineme_type: singleton
+Result: Simulated result for {'histogram_segment_size': -1, 'selected_levels': [4, 7, 10, 13], 'hist_value': 'magnitude', 'histogram_type': 'letter_combined', 'kineme_type': 'singleton'}
+----------------------------------------
+
+Index: 282
+Config:
+  histogram_segment_size: -1
+  selected_levels: [4, 7, 10, 13]
+  hist_value: magnitude
+  histogram_type: letter_combined
+  kineme_type: one_nod
+Result: Simulated result for {'histogram_segment_size': -1, 'selected_levels': [4, 7, 10, 13], 'hist_value': 'magnitude', 'histogram_type': 'letter_combined', 'kineme_type': 'one_nod'}
+----------------------------------------
+
+Index: 283
+Config:
+  histogram_segment_size: -1
+  selected_levels: [4, 7, 10, 13]
+  hist_value: magnitude
+  histogram_type: letter_levels_and_combined
+  kineme_type: single_letters
+Result: Simulated result for {'histogram_segment_size': -1, 'selected_levels': [4, 7, 10, 13], 'hist_value': 'magnitude', 'histogram_type': 'letter_levels_and_combined', 'kineme_type': 'single_letters'}
+----------------------------------------
+
+Index: 284
+Config:
+  histogram_segment_size: -1
+  selected_levels: [4, 7, 10, 13]
+  hist_value: magnitude
+  histogram_type: letter_levels_and_combined
+  kineme_type: singleton
+Result: Simulated result for {'histogram_segment_size': -1, 'selected_levels': [4, 7, 10, 13], 'hist_value': 'magnitude', 'histogram_type': 'letter_levels_and_combined', 'kineme_type': 'singleton'}
+----------------------------------------
+
+Index: 285
+Config:
+  histogram_segment_size: -1
+  selected_levels: [4, 7, 10, 13]
+  hist_value: magnitude
+  histogram_type: letter_levels_and_combined
+  kineme_type: one_nod
+Result: Simulated result for {'histogram_segment_size': -1, 'selected_levels': [4, 7, 10, 13], 'hist_value': 'magnitude', 'histogram_type': 'letter_levels_and_combined', 'kineme_type': 'one_nod'}
+----------------------------------------
+
+Index: 286
+Config:
+  histogram_segment_size: -1
+  selected_levels: [4, 7, 10, 13]
+  hist_value: magnitude
+  histogram_type: kineme_levels_and_combined
+  kineme_type: single_letters
+Result: Simulated result for {'histogram_segment_size': -1, 'selected_levels': [4, 7, 10, 13], 'hist_value': 'magnitude', 'histogram_type': 'kineme_levels_and_combined', 'kineme_type': 'single_letters'}
+----------------------------------------
+
+Index: 287
+Config:
+  histogram_segment_size: -1
+  selected_levels: [4, 7, 10, 13]
+  hist_value: magnitude
+  histogram_type: kineme_levels_and_combined
+  kineme_type: singleton
+Result: Simulated result for {'histogram_segment_size': -1, 'selected_levels': [4, 7, 10, 13], 'hist_value': 'magnitude', 'histogram_type': 'kineme_levels_and_combined', 'kineme_type': 'singleton'}
+----------------------------------------
+
+Index: 288
+Config:
+  histogram_segment_size: -1
+  selected_levels: [4, 7, 10, 13]
+  hist_value: magnitude
+  histogram_type: kineme_levels_and_combined
+  kineme_type: one_nod
+Result: Simulated result for {'histogram_segment_size': -1, 'selected_levels': [4, 7, 10, 13], 'hist_value': 'magnitude', 'histogram_type': 'kineme_levels_and_combined', 'kineme_type': 'one_nod'}
+----------------------------------------
+
